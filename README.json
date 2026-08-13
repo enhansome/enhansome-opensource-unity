@@ -1,0 +1,5282 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SanAndreasUnity",
+          "description": "⭐2.4k 🕒2y ago- An open source reimplementation of GTA San Andreas game engine in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-06-16T14:51:41Z",
+            "owner": "in0finite",
+            "repo": "SanAndreasUnity",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HelloMarioFramework",
+          "description": "⭐64 🕒2mo ago- Create your own 3D Mario game with Hello Mario Framework for Unity!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-11T03:21:34Z",
+            "owner": "HelloFangaming",
+            "repo": "HelloMarioFramework",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Adventure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Antura",
+          "description": "⭐78 🕒today- the award winning open source language learning and country explorer game for kids.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-17T16:05:14Z",
+            "owner": "vgwb",
+            "repo": "Antura",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "La Noria",
+          "description": "an open source videogame about social innovation in Malaga.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-21T12:51:31Z",
+            "owner": "vgwb",
+            "repo": "LaNoria",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Idiomatic",
+          "description": "Aan educational game developed to teaching English to native Portuguese speakers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-24T05:56:10Z",
+            "owner": "cyt1984",
+            "repo": "Idiomatic",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Educational and Social Impact"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PokemonUnity",
+          "description": "⭐1.9k 🕒7mo ago- A LEGACY Unity project to help build Pokémon-esque RPG games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-23T07:21:00Z",
+            "owner": "PokemonUnity",
+            "repo": "PokemonUnity",
+            "stars": 2016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card-Game-Simulator",
+          "description": "⭐382 🕒4d ago- Create, Share, and Play",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T23:17:26Z",
+            "owner": "finol-digital",
+            "repo": "Card-Game-Simulator",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "Cards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AngryBirdsStyleGame",
+          "description": "⭐635 🕒9mo ago- An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-22T20:35:48Z",
+            "owner": "dgkanatsios",
+            "repo": "AngryBirdsStyleGame",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodulus",
+          "description": "⭐596 🕒2y ago- A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-30T04:37:40Z",
+            "owner": "Hyperparticle",
+            "repo": "nodulus",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatchThreeGame",
+          "description": "⭐567 🕒9mo ago- A match-3 game in Unity (like Candy Crush and Bejeweled).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-22T20:02:01Z",
+            "owner": "dgkanatsios",
+            "repo": "MatchThreeGame",
+            "stars": 617
+          }
+        }
+      ],
+      "title": "Puzzle"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Darkest-Dungeon-Unity",
+          "description": "⭐1.2k 🕒3y ago- Darkest Dungeon port in Unity. Almost completely identical to the original.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-10-09T08:56:15Z",
+            "owner": "Reinisch",
+            "repo": "Darkest-Dungeon-Unity",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hogwarts",
+          "description": "⭐805 🕒1y ago- A Hogwarts (Harry Potter) open sandbox game made in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-23T06:52:19Z",
+            "owner": "OpenHogwarts",
+            "repo": "hogwarts",
+            "stars": 837
+          }
+        }
+      ],
+      "title": "RPG"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CrazyCar",
+          "description": "⭐1.7k 🕒7mo ago- online car game, the server is SpringBoot + MyBatis Plus; the background is Vue + Element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T07:51:20Z",
+            "owner": "TastSong",
+            "repo": "CrazyCar",
+            "stars": 1835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity3D-Mario-Kart-Racing-Game",
+          "description": "⭐383 🕒1y ago- Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-23T21:54:42Z",
+            "owner": "Ishaan35",
+            "repo": "Unity3D-Mario-Kart-Racing-Game",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfiniteRunner3D",
+          "description": "⭐333 🕒7y ago- Creating an infinite 3D runner game in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-03-04T17:01:38Z",
+            "owner": "dgkanatsios",
+            "repo": "InfiniteRunner3D",
+            "stars": 359
+          }
+        }
+      ],
+      "title": "Runner / Driving"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "open-brush",
+          "description": "⭐1.0k 🕒today- the open source, community led evolution of Tilt Brush! Art From All Angles, VR app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:18:36Z",
+            "owner": "icosa-foundation",
+            "repo": "open-brush",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-blocks",
+          "description": "⭐97 🕒30days ago- the open source, community led evolution of Google Blocks, Intuitive low-poly modelling in VR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T14:00:47Z",
+            "owner": "icosa-foundation",
+            "repo": "open-blocks",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpriteDicing",
+          "description": "⭐1.4k 🕒1mo ago- Extension for Unity game engine to work with diced sprites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-14T08:03:43Z",
+            "owner": "elringus",
+            "repo": "sprite-dicing",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity2D-Components",
+          "description": "⭐768 🕒4y ago- A constantly evolving array of Unity C# components for 2D games, including classes for pixel art cameras, events & messaging, saving & loading game data, collision handlers, object pools, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-23T00:21:04Z",
+            "owner": "cmilr",
+            "repo": "Unity2D-Components",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaticBluredScreen",
+          "description": "⭐200 🕒6y ago- Non-realtime (=static) screen blur for Unity. Easy to use background for dialogs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-01-03T11:17:11Z",
+            "owner": "mob-sakai",
+            "repo": "StaticBluredScreen",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataRenderer2D",
+          "description": "⭐192 🕒1mo ago- Make mesh like line, polygon, etc in unity3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-12T01:14:29Z",
+            "owner": "geniikw",
+            "repo": "DataRenderer2D",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtlasImage",
+          "description": "⭐135 🕒4y ago- AtlasImage is a graphic component use SpriteAtlas for uGUI. In addition, add useful sprite selector and border editor to the inspector.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-12-28T15:06:31Z",
+            "owner": "mob-sakai",
+            "repo": "AtlasImage",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnitySpline2D",
+          "description": "⭐71 🕒4y ago 🏛️- 2D spline utility for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-04-12T09:52:01Z",
+            "owner": "sinbad",
+            "repo": "UnitySpline2D",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "2D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spine-runtimes",
+          "description": "⭐4.8k 🕒today- Collection of Spine runtimes including with Unity3d version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T13:11:51Z",
+            "owner": "EsotericSoftware",
+            "repo": "spine-runtimes",
+            "stars": 5242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragonBonesCSharp",
+          "description": "⭐558 🕒1mo ago- DragonBones C# Runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T05:20:44Z",
+            "owner": "DragonBones",
+            "repo": "DragonBonesCSharp",
+            "stars": 577
+          }
+        }
+      ],
+      "title": "2D Bones"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ml-agents",
+          "description": "⭐18.6k 🕒yesterday- Unity Machine Learning Agents Toolkit .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:24:26Z",
+            "owner": "Unity-Technologies",
+            "repo": "ml-agents",
+            "stars": 19622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "behaviac",
+          "description": "⭐3.0k 🕒2y ago- Behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-07T07:25:48Z",
+            "owner": "Tencent",
+            "repo": "behaviac",
+            "stars": 3045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NavMeshPlus",
+          "description": "⭐2.1k 🕒6mo ago- Unity NavMesh 2D Pathfinding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T11:30:47Z",
+            "owner": "h8man",
+            "repo": "NavMeshPlus",
+            "stars": 2329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-movement-ai",
+          "description": "⭐2.1k 🕒1y ago- A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-20T02:59:02Z",
+            "owner": "sturdyspoon",
+            "repo": "unity-movement-ai",
+            "stars": 2139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Path-Creator",
+          "description": "⭐2.0k 🕒1y ago- Path creation asset for Unity game development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-02T21:14:52Z",
+            "owner": "SebLague",
+            "repo": "Path-Creator",
+            "stars": 2082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOAP",
+          "description": "⭐1.5k 🕒2mo ago- A multi-threaded GOAP (Goal Oriented Action Planning) system for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-06T07:52:10Z",
+            "owner": "crashkonijn",
+            "repo": "GOAP",
+            "stars": 1749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity3d-Finite-State-Machine",
+          "description": "⭐1.7k 🕒3y ago- Very good and easy FSM An intuitive Unity3d finite state machine (FSM). Designed with an emphasis on usability, without sacrificing utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-28T10:43:20Z",
+            "owner": "thefuntastic",
+            "repo": "Unity3d-Finite-State-Machine",
+            "stars": 1691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NPBehave",
+          "description": "⭐1.2k 🕒5mo ago- Event Driven Behavior Trees for Unity 3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-16T20:15:06Z",
+            "owner": "meniku",
+            "repo": "NPBehave",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnitySteer",
+          "description": "⭐1.2k 🕒5y ago- Steering, obstacle avoidance and path following behaviors for the Unity Game Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-01T17:16:19Z",
+            "owner": "ricardojmendez",
+            "repo": "UnitySteer",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluid-behavior-tree",
+          "description": "⭐1.1k 🕒6mo ago- A pure code behavior tree micro-framework built for Unity3D projects. Granting developers the power to dictate their GUI presentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T21:22:43Z",
+            "owner": "ashblue",
+            "repo": "fluid-behavior-tree",
+            "stars": 1180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DotRecast",
+          "description": "⭐753 🕒14d ago- A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T15:37:44Z",
+            "owner": "ikpil",
+            "repo": "DotRecast",
+            "stars": 928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goap",
+          "description": "⭐674 🕒6y ago- Goal Oriented Action Planning AI in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-01-02T00:01:34Z",
+            "owner": "sploreg",
+            "repo": "goap",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrystalAI",
+          "description": "⭐473 🕒4y ago- A Utility AI for C# and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-15T12:58:36Z",
+            "owner": "igiagkiozis",
+            "repo": "CrystalAI",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astar-for-Unity",
+          "description": "⭐371 🕒4y ago- A Star Pathfinder, 3 axis, multithreaded for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-04-29T05:14:45Z",
+            "owner": "sharpaccent",
+            "repo": "Astar-for-Unity",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EpPathFinding.cs",
+          "description": "⭐240 🕒4y ago- A jump point search algorithm for grid based games in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-08T10:46:08Z",
+            "owner": "juhgiyo",
+            "repo": "EpPathFinding.cs",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openpath",
+          "description": "⭐140 🕒4y ago- Open source pathfinding for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-29T19:45:30Z",
+            "owner": "unity3d-open-tools",
+            "repo": "openpath",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-path-finding",
+          "description": "⭐126 🕒7y ago- Shortest path finding with Dijkstra's algorithm for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-16T01:52:16Z",
+            "owner": "mattatz",
+            "repo": "unity-path-finding",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainiac",
+          "description": "⭐117 🕒5y ago- Behaviour tree editor for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-14T09:50:06Z",
+            "owner": "daemon3000",
+            "repo": "Brainiac",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EpPathFinding3D.cs",
+          "description": "⭐48 🕒7y ago- A 3D jump point search algorithm for cube based games in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-24T01:41:32Z",
+            "owner": "juhgiyo",
+            "repo": "EpPathFinding3D.cs",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NavMeshSurface2DBaker",
+          "description": "⭐47 🕒4y ago- NavMeshSurface2DBaker is a Unity Package that provides functionality to bake 2D colliders into NavMeshSurface components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-04-21T18:55:49Z",
+            "owner": "SharlatanY",
+            "repo": "NavMeshSurface2DBaker",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Game DevTools (AI-GDT)",
+          "description": "933 🕒yesterday- the latest AI Game Development Tools, including LLM, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T09:21:18Z",
+            "owner": "Yuan-ManX",
+            "repo": "ai-game-devtools",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StableDiffusionUnityTools",
+          "description": "⭐65 🕒2y ago- Editor assets generation via Stable Diffusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-14T13:52:16Z",
+            "owner": "KonH",
+            "repo": "StableDiffusionUnityTools",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "AI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnityARFoundationEssentials",
+          "description": "⭐813 🕒2y ago- AR Foundation examples created with AR Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-25T17:50:47Z",
+            "owner": "dilmerv",
+            "repo": "UnityARFoundationEssentials",
+            "stars": 828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XRTK-Core",
+          "description": "⭐310 🕒2y ago 🏛️- The Official Mixed Reality Framework for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-02-12T04:02:00Z",
+            "owner": "XRTK",
+            "repo": "com.xrtk.core",
+            "stars": 308
+          }
+        }
+      ],
+      "title": "AR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeadSimple-Pixel-Perfect-Camera",
+          "description": "⭐237 🕒4y ago- An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes in Unity. Punch in a few specs and you've got a working pixel perfect camera. It's that easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-23T00:21:48Z",
+            "owner": "cmilr",
+            "repo": "DeadSimple-Pixel-Perfect-Camera",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-camera-multi-target",
+          "description": "⭐228 🕒5mo ago- Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-03T22:21:39Z",
+            "owner": "lopespm",
+            "repo": "unity-camera-multi-target",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FulldomeCameraForUnity",
+          "description": "⭐154 🕒4y ago- Fulldome Camera for Unity 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-24T20:12:29Z",
+            "owner": "rsodre",
+            "repo": "FulldomeCameraForUnity",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityPixelCamera",
+          "description": "⭐124 🕒8y ago- A resolution independent pixel perfect camera for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-03-03T09:06:10Z",
+            "owner": "SubjectNerd-Unity",
+            "repo": "UnityPixelCamera",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Camera"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ultimate-2D-Controller",
+          "description": "⭐2.0k 🕒1y ago- A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-08T14:35:58Z",
+            "owner": "Matthew-J-Spencer",
+            "repo": "Ultimate-2D-Controller",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CharacterController2D",
+          "description": "⭐1.1k 🕒5y ago- Similar to the built-in Unity CharacterController component. It has a similar API (mainly a move method that takes a delta movement) and provides a firm base with which to make a super solid controller using Unity's 2D system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-09-21T00:26:03Z",
+            "owner": "prime31",
+            "repo": "CharacterController2D",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-2D-Platformer-Controller",
+          "description": "⭐942 🕒5y ago- A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-01-10T22:50:27Z",
+            "owner": "cjddmut",
+            "repo": "Unity-2D-Platformer-Controller",
+            "stars": 993
+          }
+        }
+      ],
+      "title": "Character Controllers 2D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NaughtyCharacter",
+          "description": "⭐1.0k 🕒2y ago- Third Person Controller for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T12:23:34Z",
+            "owner": "dbrizov",
+            "repo": "Unity-CharacterController",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Box2D.NET",
+          "description": "⭐69 🕒1week ago- a port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:21:55Z",
+            "owner": "ikpil",
+            "repo": "Box2D.NET",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced-Rigidbody-FirstPerson-Controller",
+          "description": "⭐0- Rigidbody Based FirstPerson Controller.",
+          "children": []
+        }
+      ],
+      "title": "Character Controllers 3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnityIngameDebugConsole",
+          "description": "⭐2.5k 🕒2mo ago- Easy to use in-game debug + command line interface. Also on the asset store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T20:43:30Z",
+            "owner": "yasirkula",
+            "repo": "UnityIngameDebugConsole",
+            "stars": 2719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "consolation",
+          "description": "⭐881 🕒2mo ago- In-game debug console for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-11T00:57:40Z",
+            "owner": "mminer",
+            "repo": "consolation",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lunar-unity-console",
+          "description": "⭐872 🕒6mo ago- High-performance Unity iOS/Android logger built with native platform UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-06T02:44:29Z",
+            "owner": "SpaceMadness",
+            "repo": "lunar-unity-console",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity3d-BeastConsole",
+          "description": "⭐161 🕒6y ago- Console for all your unity needs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-02-26T23:37:51Z",
+            "owner": "pointcache",
+            "repo": "Unity3d-BeastConsole",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "Console"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EntitiesBT",
+          "description": "⭐487 🕒3y ago- Behavior Tree for Unity ECS (DOTS) framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-31T09:25:30Z",
+            "owner": "quabug",
+            "repo": "EntitiesBT",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-ecs-navmesh",
+          "description": "⭐483 🕒6y ago- A demo implementation of Unity Entity Component System with NavMesh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-09-02T15:50:30Z",
+            "owner": "zulfajuniadi",
+            "repo": "unity-ecs-navmesh",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KNN",
+          "description": "⭐471 🕒2y ago- Fast K-Nearest Neighbour Library for Unity DOTS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-18T13:31:23Z",
+            "owner": "ArthurBrussee",
+            "repo": "KNN",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NativeCollections",
+          "description": "⭐420 🕒2y ago- Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-26T16:58:48Z",
+            "owner": "jacksondunstan",
+            "repo": "NativeCollections",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriteSheetRenderer",
+          "description": "⭐391 🕒2y ago- A powerful Unity ECS system to render massive numbers of animated sprites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2023-01-08T19:02:30Z",
+            "owner": "fabriziospadaro",
+            "repo": "SpriteSheetRenderer",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IcSkillSystem",
+          "description": "⭐256 🕒4y ago- A simple and reusable skill system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-27T16:40:17Z",
+            "owner": "yika-aixi",
+            "repo": "IcSkillSystem",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlasticTween",
+          "description": "⭐178 🕒6y ago- Tween Library for Unity3D(ECS+JOBS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-07-31T10:37:17Z",
+            "owner": "PlasticApps",
+            "repo": "PlasticTween",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-2D-Pathfinding-Grid-ECS-Job",
+          "description": "⭐125 🕒5y ago- ECS Burst Job System 2D Pathfinding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-09-02T11:21:05Z",
+            "owner": "Omniaffix-Dave",
+            "repo": "Unity-2D-Pathfinding-Grid-ECS-Job",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECS-Tween",
+          "description": "⭐92 🕒6y ago- Simple Unity tweening system using ECS that works with GameObjects!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-07-10T19:58:47Z",
+            "owner": "Xerios",
+            "repo": "ECS-Tween",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydrogen.Entities",
+          "description": "⭐74 🕒4y ago 🏛️- A collection of helpers for work with Unity's ECS framework, used in our games.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-12-30T08:50:17Z",
+            "owner": "periodyctom",
+            "repo": "Hydrogen.Entities",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntitySelection",
+          "description": "⭐74 🕒2y ago- A minimal solution for selecting entities in the unity sceneview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-12T12:32:35Z",
+            "owner": "JonasDeM",
+            "repo": "EntitySelection",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-jtween",
+          "description": "⭐49 🕒6y ago 🏛️- A job-based tween library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-06-19T08:17:00Z",
+            "owner": "jeffcampbellmakesgames",
+            "repo": "unity-jtween",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easy-Road-3D-ECS-Traffic",
+          "description": "⭐47 🕒2y ago- Unity DOTS/ECS traffic using Easy Roads 3D for the data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-10T21:36:27Z",
+            "owner": "Blissgig",
+            "repo": "Easy-Road-3D-ECS-Traffic",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "DOTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MyBox",
+          "description": "⭐2.1k 🕒2d ago- MyBox is a set of attributes, tools and extensions for Unity .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-22T10:41:24Z",
+            "owner": "andrumak",
+            "repo": "MyBox",
+            "stars": 2194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-Editor-Toolbox",
+          "description": "⭐1.9k 🕒17d ago- Tools, custom attributes, drawers and extensions for Unity Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:18:21Z",
+            "owner": "arimger",
+            "repo": "Unity-Editor-Toolbox",
+            "stars": 1974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alchemy",
+          "description": "⭐901 🕒2mo ago- Provides a rich set of editor and serialization extensions for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T08:03:19Z",
+            "owner": "annulusgames",
+            "repo": "Alchemy",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-QuickSheet",
+          "description": "⭐1.1k 🕒4y ago- Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-28T11:49:59Z",
+            "owner": "kimsama",
+            "repo": "Unity-QuickSheet",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity3d-rainbow-folders",
+          "description": "⭐647 🕒4y ago- This asset allows you to set custom icons for any folder in unity project browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-08T17:04:03Z",
+            "owner": "Borod4r",
+            "repo": "unity3d-rainbow-folders",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-Reorderable-List",
+          "description": "⭐646 🕒4y ago- Extended version of the Reorderable List in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-06T21:28:52Z",
+            "owner": "cfoulston",
+            "repo": "Unity-Reorderable-List",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityEditorJunkie",
+          "description": "⭐633 🕒3y ago- Editor scripts to make working with the Unity Editor better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-11T05:20:12Z",
+            "owner": "roboryantron",
+            "repo": "UnityEditorJunkie",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReorderableInspector",
+          "description": "⭐489 🕒5y ago- Automatic reorderable lists for Unity game engine components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-26T01:48:07Z",
+            "owner": "SubjectNerd-Unity",
+            "repo": "ReorderableInspector",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VFW",
+          "description": "⭐490 🕒7y ago- An editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-08T02:07:27Z",
+            "owner": "vexe",
+            "repo": "VFW",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enhancer",
+          "description": "⭐391 🕒5y ago- A collection of utilities to enhance the Unity Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-29T05:14:16Z",
+            "owner": "xeleh",
+            "repo": "enhancer",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-AssetDependencyGraph",
+          "description": "⭐365 🕒4y ago- An Asset Dependency Graph for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-27T07:32:12Z",
+            "owner": "Unity-Harry",
+            "repo": "Unity-AssetDependencyGraph",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "property-drawer-collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2016-11-16T14:37:53Z",
+            "owner": "anchan828",
+            "repo": "property-drawer-collection",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Texture3DPreview-for-Unity",
+          "description": "⭐245 🕒7y ago- This package enables interactive previews of Texture3D assets in Unity's Inspector window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-10-30T10:23:33Z",
+            "owner": "raphael-ernaelsten",
+            "repo": "Texture3DPreview-for-Unity",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-editor-spotlight",
+          "description": "⭐167 🕒1y ago- MacOS-like Spotlight file search in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-03T19:50:39Z",
+            "owner": "marijnz",
+            "repo": "unity-editor-spotlight",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-symlink-utility",
+          "description": "⭐109 🕒4y ago- A small extension that adds a menu item to add folders as symlinks in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-21T13:43:25Z",
+            "owner": "karl-",
+            "repo": "unity-symlink-utility",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-colourlovers-importer",
+          "description": "⭐103 🕒5y ago- Unity editor tool to load colours and palettes directly from COLOURlovers.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-15T08:40:48Z",
+            "owner": "shelleylowe",
+            "repo": "unity-colourlovers-importer",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityPsdImporter",
+          "description": "⭐74 🕒8y ago 🍴- Advanced PSD importer for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-06-05T16:05:55Z",
+            "owner": "ChemiKhazi",
+            "repo": "UnityPsdImporter",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityDefineManager",
+          "description": "⭐71 🕒6y ago- Easily manage global defines in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-12T13:38:51Z",
+            "owner": "karl-",
+            "repo": "UnityDefineManager",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme",
+          "description": "⭐48 🕒1y ago- Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-16T20:29:00Z",
+            "owner": "TinyPHX",
+            "repo": "Readme",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-Finder",
+          "description": "⭐43 🕒4y ago- Find Asset in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T20:15:53Z",
+            "owner": "litefeel",
+            "repo": "Unity-Finder",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tidy-Up",
+          "description": "⭐37 🕒7y ago- Neat little tool! to help you keep your Unity projects organised by throwing assets in their designated folders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-16T07:57:44Z",
+            "owner": "Nutshell-Hack",
+            "repo": "Tidy-Up",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shortcuter",
+          "description": "⭐19 🕒5y ago- Shortcut utility for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-11-17T23:59:51Z",
+            "owner": "intentor",
+            "repo": "shortcuter",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniOmni",
+          "description": "⭐0- Global search for Unity.",
+          "children": []
+        }
+      ],
+      "title": "Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "crest-oceanrender",
+          "description": "⭐3.7k 🕒14d ago- An advanced ocean system implemented in Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-18T06:36:17Z",
+            "owner": "wave-harmonic",
+            "repo": "crest",
+            "stars": 3869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KinoGlitch",
+          "description": "⭐2.7k 🕒1y ago- Video glitch effects for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-05T13:20:54Z",
+            "owner": "keijiro",
+            "repo": "KinoGlitch",
+            "stars": 2809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShaderForge",
+          "description": "⭐2.7k 🕒2y ago- Shader visual scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-03T15:31:22Z",
+            "owner": "FreyaHolmer",
+            "repo": "ShaderForge",
+            "stars": 2781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriteGlow",
+          "description": "⭐2.4k 🕒1y ago- A sprite glow effect for Unity game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2025-10-15T21:44:14Z",
+            "owner": "elringus",
+            "repo": "sprite-glow",
+            "stars": 2411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezy-slice",
+          "description": "⭐2.1k 🕒2y ago- An open source mesh slicer framework for Unity3D Game Engine. Written in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-10T07:30:07Z",
+            "owner": "DavidArayan",
+            "repo": "ezy-slice",
+            "stars": 2262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "temporal",
+          "description": "⭐1.9k 🕒4y ago- Temporal Reprojection Anti-Aliasing for Unity 5.0+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-04-03T15:30:04Z",
+            "owner": "playdeadgames",
+            "repo": "temporal",
+            "stars": 1871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity5Effects",
+          "description": "⭐1.7k 🕒4y ago- Effect storage space for Unity 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-08T16:57:18Z",
+            "owner": "i-saint",
+            "repo": "Unity5Effects",
+            "stars": 1685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outline-Effect",
+          "description": "⭐1.5k 🕒2y ago- Outline Image Effect for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-16T16:34:59Z",
+            "owner": "cakeslice",
+            "repo": "Outline-Effect",
+            "stars": 1558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ceto",
+          "description": "⭐1.1k 🕒3y ago- Ceto: Ocean system for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-01-30T05:41:31Z",
+            "owner": "Scrawk",
+            "repo": "Ceto",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocean_Community_Next_Gen",
+          "description": "⭐1.1k 🕒5y ago- Next gen iteration of the unity community ocean shader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-19T08:28:38Z",
+            "owner": "eliasts",
+            "repo": "Ocean_Community_Next_Gen",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadialProgressBar",
+          "description": "⭐1.0k 🕒6y ago- Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-16T11:33:18Z",
+            "owner": "AdultLink",
+            "repo": "RadialProgressBar",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToonShading",
+          "description": "⭐1.0k 🕒9mo ago- A collection of \"Toon\" shaders for Unity based on a stepped PBR approximation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-28T08:22:08Z",
+            "owner": "Kink3d",
+            "repo": "kShading",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HologramShader",
+          "description": "⭐959 🕒1y ago- Hologram Shader and Material Editor for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-07T08:52:33Z",
+            "owner": "andydbc",
+            "repo": "HologramShader",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShaderlabVS",
+          "description": "⭐987 🕒4y ago- ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-07T00:58:19Z",
+            "owner": "wudixiaop",
+            "repo": "ShaderlabVS",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-frosted-glass",
+          "description": "⭐885 🕒1y ago- Frosted glass material made in unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-10T07:58:35Z",
+            "owner": "andydbc",
+            "repo": "unity-frosted-glass",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-delaunay",
+          "description": "⭐821 🕒2y ago- A Delaunay/Voronoi library for Unity, and a simple destruction effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-28T19:03:44Z",
+            "owner": "OskarSigvardsson",
+            "repo": "unity-delaunay",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityPCSS",
+          "description": "⭐766 🕒6y ago- Nvidia's PCSS soft shadow algorithm implemented in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-08-05T00:04:57Z",
+            "owner": "TheMasonX",
+            "repo": "UnityPCSS",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSMS",
+          "description": "⭐731 🕒28d ago- Screen space multiple scattering for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-30T20:56:54Z",
+            "owner": "OCASM",
+            "repo": "SSMS",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TexturePanner",
+          "description": "⭐730 🕒3y ago- This repository hosts a shader for Unity3D whose main goal is to facilitate the creation of neon-like signs, conveyor belts and basically whatever based on scrolling textures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-09T11:54:06Z",
+            "owner": "AdultLink",
+            "repo": "TexturePanner",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtmosphericScattering",
+          "description": "⭐675 🕒3y ago- Atmospheric Scattering for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-15T12:41:25Z",
+            "owner": "SlightlyMad",
+            "repo": "AtmosphericScattering",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VerticalDissolve",
+          "description": "⭐646 🕒6y ago- Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-16T11:33:05Z",
+            "owner": "AdultLink",
+            "repo": "VerticalDissolve",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BNAO",
+          "description": "⭐555 🕒4y ago- A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-25T22:15:34Z",
+            "owner": "Fewes",
+            "repo": "BNAO",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoloShield",
+          "description": "⭐554 🕒6y ago- Highly customizable sci-fi shield / force field shader for Unity3D. Allows you to set edge power & color, inner texture scrolling, waviness, scale pulsation and procedural intensity noise. Implements tessellation for low-poly base meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2018-12-07T12:27:11Z",
+            "owner": "AdultLink",
+            "repo": "HoloShield",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShaderProject",
+          "description": "⭐542 🕒8y ago- A container for all sorts of handy shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2017-07-18T18:56:30Z",
+            "owner": "ellioman",
+            "repo": "ShaderProject",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-ShaderSketches",
+          "description": "⭐493 🕒5y ago- Sketches made with ShaderLab in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2019-10-31T15:57:41Z",
+            "owner": "setchi",
+            "repo": "Unity-ShaderSketches",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SphereDissolve",
+          "description": "⭐455 🕒6y ago- Customizable procedural spherical dissolve shader for Unity3D, for all your customizable procedural spherical dissolve needs!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-16T11:32:44Z",
+            "owner": "AdultLink",
+            "repo": "SphereDissolve",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMAA",
+          "description": "⭐429 🕒6y ago 🏛️- A highly customizable implementation of Subpixel Morphological Antialiasing for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-02-14T10:32:30Z",
+            "owner": "Chman",
+            "repo": "SMAA",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltimateOutline",
+          "description": "⭐372 🕒6y ago- The easiest way to achieve outlines in unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2019-04-05T06:30:37Z",
+            "owner": "Shrimpey",
+            "repo": "UltimateOutline",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kamakura-shaders",
+          "description": "⭐353 🕒7y ago- Kamakura Shaders is a collection of shaders and components focusing on Non-Photorealistic Rendering for Unity with a bunch of features and adjustable parameters in a user-friendly interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-07-13T08:21:28Z",
+            "owner": "kayac",
+            "repo": "kamakura-shaders",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-Shaders",
+          "description": "⭐340 🕒1y ago- Shader demo - More than 300 examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2023-10-03T17:16:52Z",
+            "owner": "knapeczadam",
+            "repo": "unity-shaders",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outlined-Diffuse-Shader-Fixed",
+          "description": "⭐236 🕒7y ago- This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2018-08-16T13:21:59Z",
+            "owner": "Shrimpey",
+            "repo": "Outlined-Diffuse-Shader-Fixed",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typogenic",
+          "description": "⭐194 🕒8y ago 🏛️- Signed-distance field text rendering for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2017-07-11T19:47:33Z",
+            "owner": "Chman",
+            "repo": "Typogenic",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirror",
+          "description": "⭐50 🕒6y ago- A mirror script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-22T14:29:08Z",
+            "owner": "nkjzm",
+            "repo": "Mirror",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facepunch.Highlight",
+          "description": "⭐0- Mesh outline effect.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "AnisotropicStandardShader",
+          "description": "⭐0- A modified version of Unity's Standard Shader using an Anisotropic GGX BRDF.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Arktoon-Shaders",
+          "description": "⭐0- Alternative Unity shaders made by synqark.",
+          "children": []
+        }
+      ],
+      "title": "Effect and Shaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hedera",
+          "description": "⭐803 🕒3y ago- Paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-23T22:41:46Z",
+            "owner": "radiatoryang",
+            "repo": "hedera",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photosynthesizer",
+          "description": "⭐126 🕒6y ago- Unity plugin to procedurally sprout foliage throughout your scene.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2019-07-17T15:51:45Z",
+            "owner": "alexismorin",
+            "repo": "Photosynthesizer",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roadbuilder",
+          "description": "⭐107 🕒5y ago- Easy-to-build realistic roads in Unity. Foundation of any simcity game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-12-27T21:34:15Z",
+            "owner": "guotata1996",
+            "repo": "roadbuilder",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Environment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Entitas-CSharp",
+          "description": "⭐7.5k 🕒1y ago- Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-30T16:18:56Z",
+            "owner": "sschmid",
+            "repo": "Entitas",
+            "stars": 7670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QFramework",
+          "description": "⭐5.0k 🕒2mo ago- Your first K.I.S.S Unity 3D Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-11T12:35:44Z",
+            "owner": "liangxiegame",
+            "repo": "QFramework",
+            "stars": 5407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zenject",
+          "description": "⭐2.8k 🕒1y ago 🍴- Dependency Injection Framework for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-26T10:54:12Z",
+            "owner": "modesttree",
+            "repo": "Zenject",
+            "stars": 2932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecsrx.unity",
+          "description": "⭐420 🕒10mo ago- A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-30T16:31:01Z",
+            "owner": "EcsRx",
+            "repo": "ecsrx.unity",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameFramework",
+          "description": "⭐251 🕒5y ago- A free framework for Unity that will help drastically increase the development speed and feature set of your games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-03-19T14:50:51Z",
+            "owner": "FlipWebApps",
+            "repo": "GameFramework",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adic",
+          "description": "⭐198 🕒4y ago- Lightweight dependency injection container for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-09T01:40:41Z",
+            "owner": "intentor",
+            "repo": "adic",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uFrame.Complete",
+          "description": "⭐93 🕒7y ago- All in one repo, includes: Kernel, Designer, Architect, MVVM, ECS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-08T02:32:18Z",
+            "owner": "uFrame",
+            "repo": "uFrame.Complete",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gocs",
+          "description": "⭐0- GameObject Component System for Unity.",
+          "children": []
+        }
+      ],
+      "title": "Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xNode",
+          "description": "⭐3.6k 🕒1y ago- Lets you view and edit node graphs inside Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-26T13:00:57Z",
+            "owner": "Siccity",
+            "repo": "xNode",
+            "stars": 3736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node_Editor_Framework",
+          "description": "⭐2.0k 🕒1y ago 🏛️- Node Editor framework for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-10-31T22:53:07Z",
+            "owner": "Seneral",
+            "repo": "Node_Editor_Framework",
+            "stars": 2020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fungus",
+          "description": "⭐1.8k 🕒7mo ago- Awesome and powerful Adventures and Visual novel engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-16T22:16:39Z",
+            "owner": "snozbot",
+            "repo": "fungus",
+            "stars": 1944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueGraph",
+          "description": "⭐256 🕒3y ago- Like xNode, but on UIElements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-11T00:16:25Z",
+            "owner": "McManning",
+            "repo": "BlueGraph",
+            "stars": 256
+          }
+        }
+      ],
+      "title": "Framework - visual"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnityGameplayAbilitySystem",
+          "description": "⭐1.0k 🕒3y ago 🏛️- A unified framework for implementing ability systems in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-08-12T19:28:27Z",
+            "owner": "sjai013",
+            "repo": "unity-gameplay-ability-system",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPGCore",
+          "description": "⭐843 🕒1y ago- RPGCore is a toolkit for producing RPG games and mechanics for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-09T21:30:51Z",
+            "owner": "fydar",
+            "repo": "RPGCore",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inventory-Pro",
+          "description": "⭐704 🕒5y ago- The best-selling Inventory System for Unity - now free and open-source!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-06T20:52:12Z",
+            "owner": "devdogio",
+            "repo": "Inventory-Pro",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quest-System-Pro",
+          "description": "⭐637 🕒4y ago- The powerful Quest and Conversation Tree System for Unity - now free and open-source!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-04T08:28:51Z",
+            "owner": "devdogio",
+            "repo": "Quest-System-Pro",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoteEditor",
+          "description": "⭐431 🕒5y ago- Note editor for rhythm games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-12-15T13:57:19Z",
+            "owner": "setchi",
+            "repo": "NoteEditor",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lospro",
+          "description": "⭐379 🕒5y ago- The Lightweigt Line-of-Sight & Hearing System for Unity - now free and open-source!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-06T20:26:36Z",
+            "owner": "devdogio",
+            "repo": "lospro",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inventory",
+          "description": "⭐272 🕒1y ago- A Diablo 2-style inventory system for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-11T04:54:13Z",
+            "owner": "FarrokhGames",
+            "repo": "Inventory",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityArcRayCast",
+          "description": "⭐133 🕒4mo ago- Arc raycast utility using projectile formulas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-29T13:59:19Z",
+            "owner": "williamrjackson",
+            "repo": "UnityArcRayCast",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Gameplay"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TouchScript",
+          "description": "⭐1.7k 🕒2y ago- Complete multitouch solution for Unity: Win8, TUIO, Mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-22T06:40:22Z",
+            "owner": "TouchScript",
+            "repo": "TouchScript",
+            "stars": 1701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchKit",
+          "description": "⭐917 🕒6y ago- Gestures and input handling made sane for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-27T00:31:27Z",
+            "owner": "prime31",
+            "repo": "TouchKit",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InControl",
+          "description": "⭐697 🕒4y ago- An input manager for Unity that tames the cross-platform controller beast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-04T21:03:02Z",
+            "owner": "pbhogan",
+            "repo": "InControl",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InputManager",
+          "description": "⭐591 🕒4y ago- Custom InputManager for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-26T08:57:43Z",
+            "owner": "daemon3000",
+            "repo": "InputManager",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InputBinder",
+          "description": "⭐77 🕒10y ago- Easily bind input events to methods in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-05-28T22:20:46Z",
+            "owner": "RyanNielson",
+            "repo": "InputBinder",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Input"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "realtime-CSG-for-unity",
+          "description": "⭐899 🕒1mo ago- Realtime-CSG, CSG level editor for Unity .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-28T08:40:50Z",
+            "owner": "LogicalError",
+            "repo": "realtime-CSG-for-unity",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoadArchitect",
+          "description": "⭐963 🕒5y ago 🏛️- Road Architect for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-25T19:14:49Z",
+            "owner": "MicroGSD",
+            "repo": "RoadArchitect",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giles",
+          "description": "⭐787 🕒3y ago- GILES: A Runtime Level Editor for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-22T10:27:14Z",
+            "owner": "Unity-Technologies",
+            "repo": "giles",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiled2Unity",
+          "description": "⭐505 🕒2y ago- Export Tiled Map Editor (TMX) files into Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-22T23:33:44Z",
+            "owner": "Seanba",
+            "repo": "Tiled2Unity",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityTile3D",
+          "description": "⭐266 🕒3y ago 🏛️- Simple 3D Tile Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-06-08T17:36:48Z",
+            "owner": "NoelFB",
+            "repo": "UnityTile3D",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "floorplan",
+          "description": "⭐259 🕒6y ago- A Sims-Like Unity Level Design Plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-24T19:59:40Z",
+            "owner": "alexismorin",
+            "repo": "floorplan",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HexTiles",
+          "description": "⭐165 🕒7y ago- Unity Hex Tile Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-05-03T02:33:18Z",
+            "owner": "RoryDungan",
+            "repo": "HexTiles",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terrain-Stamps",
+          "description": "⭐88 🕒6y ago- Stamps for the Unity Terrain Stamp Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-14T18:42:39Z",
+            "owner": "Roland09",
+            "repo": "Terrain-Stamps",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrefabPainter",
+          "description": "⭐85 🕒5y ago- A basic prefab painter for the Unity3D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-01-13T11:53:31Z",
+            "owner": "alexanderameye",
+            "repo": "prefab-painter",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StampToolExtended",
+          "description": "⭐54 🕒2y ago- Extended version of the Unity Terrain Stamp Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-10-02T05:41:52Z",
+            "owner": "Roland09",
+            "repo": "StampToolExtended",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrefabPainter",
+          "description": "⭐12 🕒3y ago- Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-04T07:16:31Z",
+            "owner": "Roland09",
+            "repo": "PrefabPainter",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2DTileMapLevelEditor",
+          "description": "⭐0- 2D Tile Map Level Editor for Unity.",
+          "children": []
+        }
+      ],
+      "title": "Level Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VolumetricLights",
+          "description": "⭐2.1k 🕒7y ago- Volumetric Lights for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-08-25T10:16:45Z",
+            "owner": "SlightlyMad",
+            "repo": "VolumetricLights",
+            "stars": 2115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rimlight",
+          "description": "⭐249 🕒6y ago- Customizable rimlight shader for Unity that includes pulsation and noise scrolling. Give your scenes that extra oomph!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-16T11:33:42Z",
+            "owner": "AdultLink",
+            "repo": "Rimlight",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-light-probe-placer",
+          "description": "⭐142 🕒6y ago 🏛️- A simple tool for Unity3d and it help you easily place Light Probes in your scene.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-01-08T10:44:46Z",
+            "owner": "AlexanderVorobyov",
+            "repo": "simple-light-probe-placer",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aura",
+          "description": "⭐0- Volumetric Lighting for Unity.",
+          "children": []
+        }
+      ],
+      "title": "Light"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xLua",
+          "description": "⭐9.8k 🕒5mo ago- xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, macOS, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-21T07:14:15Z",
+            "owner": "Tencent",
+            "repo": "xLua",
+            "stars": 10159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuaProfiler-For-Unity",
+          "description": "⭐2.0k 🕒yesterday- LuaProfiler-For-Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-05T09:07:22Z",
+            "owner": "leinlin",
+            "repo": "Miku-LuaProfiler",
+            "stars": 2016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moonsharp",
+          "description": "⭐1.5k 🕒1y ago- An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T06:45:45Z",
+            "owner": "moonsharp-devs",
+            "repo": "moonsharp",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slua",
+          "description": "⭐1.4k 🕒3y ago- Fastest lua binding via static code generating for Unity3D and mono.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-18T04:39:24Z",
+            "owner": "pangweiwei",
+            "repo": "slua",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniLua",
+          "description": "⭐1.1k 🕒1y ago- A pure C# implementation of Lua 5.2 focus on compatibility with Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-22T03:11:53Z",
+            "owner": "xebecnan",
+            "repo": "UniLua",
+            "stars": 1121
+          }
+        }
+      ],
+      "title": "Lua"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnityMeshSimplifier",
+          "description": "⭐1.9k 🕒1y ago- Mesh simplification for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-07T22:16:05Z",
+            "owner": "Whinarn",
+            "repo": "UnityMeshSimplifier",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SplineMesh",
+          "description": "⭐1.1k 🕒2y ago- A Unity plugin to create curved content in real-time with bézier curves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-21T07:55:00Z",
+            "owner": "methusalah",
+            "repo": "SplineMesh",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshDecimator",
+          "description": "⭐297 🕒5y ago 🏛️- A mesh decimation library for .NET and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-28T10:53:51Z",
+            "owner": "Whinarn",
+            "repo": "MeshDecimator",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roadcreator",
+          "description": "⭐68 🕒5y ago 🏛️- A free road creation tool for unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-10-12T12:58:00Z",
+            "owner": "MarcusElg",
+            "repo": "roadcreator",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Meshes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "googleads-mobile-unity",
+          "description": "⭐1.4k 🕒yesterday- Official Unity Plugin for the Google Mobile Ads SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T23:03:11Z",
+            "owner": "googleads",
+            "repo": "googleads-mobile-unity",
+            "stars": 1542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity3d-levelup",
+          "description": "⭐0- Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "unity3d-store",
+          "description": "⭐0- Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.",
+          "children": []
+        }
+      ],
+      "title": "Monetization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nakama",
+          "description": "⭐11.4k 🕒today- An open-source distributed social and realtime server for games and apps by Heroic Labs. It includes a large set of services for users, data storage, and realtime client/server communication; as well as specialized APIs like realtime multiplayer, groups/guilds, and chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T15:23:47Z",
+            "owner": "heroiclabs",
+            "repo": "nakama",
+            "stars": 13149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ET",
+          "description": "⭐9.4k 🕒22d ago- Unity3D Client And C# Server Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-24T10:30:32Z",
+            "owner": "egametang",
+            "repo": "ET",
+            "stars": 9883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websocket-sharp",
+          "description": "⭐6.0k 🕒2d ago- A C# implementation of the WebSocket protocol client and server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T07:34:19Z",
+            "owner": "sta",
+            "repo": "websocket-sharp",
+            "stars": 6073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicOnion",
+          "description": "⭐4.2k 🕒7d ago- gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T03:20:18Z",
+            "owner": "Cysharp",
+            "repo": "MagicOnion",
+            "stars": 4439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facepunch.Steamworks",
+          "description": "⭐3.3k 🕒29d ago- Another fucking c# Steamworks implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-16T23:31:37Z",
+            "owner": "Facepunch",
+            "repo": "Facepunch.Steamworks",
+            "stars": 3722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteNetLib",
+          "description": "⭐3.3k 🕒1mo ago- Lite reliable UDP library for Mono and .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-18T11:34:49Z",
+            "owner": "RevenantX",
+            "repo": "LiteNetLib",
+            "stars": 3607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steamworks.NET",
+          "description": "⭐3.2k 🕒20d ago- Steamworks wrapper for Unity / C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T05:02:02Z",
+            "owner": "rlabrecque",
+            "repo": "Steamworks.NET",
+            "stars": 3570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLAPI",
+          "description": "⭐2.2k 🕒today- A game networking framework built for the Unity Engine to abstract game networking concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:29:02Z",
+            "owner": "Unity-Technologies",
+            "repo": "com.unity.netcode.gameobjects",
+            "stars": 2318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FishNet",
+          "description": "⭐1.7k 🕒7d ago- Fish-Networking: Unity Networking Evolved is an easy to use, high performant, feature-rich Unity based networking solution. FishNet is free while offering features previously only seen in paid options. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T11:03:27Z",
+            "owner": "FirstGearGames",
+            "repo": "FishNet",
+            "stars": 2011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForgeNetworkingRemastered",
+          "description": "⭐1.5k 🕒3y ago 🏛️- In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-08-15T15:55:23Z",
+            "owner": "BeardedManStudios",
+            "repo": "ForgeNetworkingRemastered",
+            "stars": 1483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lidgren-network-gen3",
+          "description": "⭐1.2k 🕒4y ago- Lidgren.Network is a networking library for .NET framework, which uses a single UDP socket to deliver a simple API for connecting a client to a server, reading and sending messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-29T06:26:01Z",
+            "owner": "lidgren",
+            "repo": "lidgren-network-gen3",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnitySocketIO",
+          "description": "⭐894 🕒11y ago- A socket.io client for unity3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-05-04T02:22:18Z",
+            "owner": "NetEase",
+            "repo": "UnitySocketIO",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SocketIoClientDotNet",
+          "description": "⭐791 🕒5y ago- Socket.IO Client Library for .Net.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-08-20T11:22:56Z",
+            "owner": "Quobject",
+            "repo": "SocketIoClientDotNet",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityLockstep",
+          "description": "⭐663 🕒6y ago 🏛️- Deterministic Lockstep with serverside framerate for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-03-21T00:07:58Z",
+            "owner": "proepkes",
+            "repo": "UnityLockstep",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityHTTP",
+          "description": "⭐597 🕒7y ago- A TcpClient-based HTTP library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-13T01:47:31Z",
+            "owner": "andyburke",
+            "repo": "UnityHTTP",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barebones-masterserver",
+          "description": "⭐483 🕒4y ago- Master Server framework for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-22T00:55:10Z",
+            "owner": "alvyxaz",
+            "repo": "barebones-masterserver",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Networker",
+          "description": "⭐479 🕒5y ago 🏛️- A simple to use TCP and UDP networking library for .NET. Compatible with Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-01-31T18:02:21Z",
+            "owner": "markiodev",
+            "repo": "Networker",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colyseus",
+          "description": "Multiplayer Game Server for Node.js. Demo with Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T02:28:28Z",
+            "owner": "colyseus",
+            "repo": "colyseus-unity-sdk",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazel-Networking",
+          "description": "⭐205 🕒4y ago- A low level networking library for C# providing connection orientated, message based communication via TCP, UDP and RUDP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-30T05:43:51Z",
+            "owner": "DarkRiftNetworking",
+            "repo": "Hazel-Networking",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-fastpacedmultiplayer",
+          "description": "⭐198 🕒6y ago 🏛️- Features a Networking Framework to be used on top of Unity Networking, in order to implement an Authoritative Server with Lag Compensation, Client-Side Prediction/Server Reconciliation and Entity Interpolation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-07-27T01:53:41Z",
+            "owner": "thatjoaoguy",
+            "repo": "unity-fastpacedmultiplayer",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entitas-Sync-Framework",
+          "description": "⭐173 🕒6y ago- Networking framework for Entitas ECS. Targeted at turnbased games or other slow-paced genres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-12T16:19:38Z",
+            "owner": "RomanZhu",
+            "repo": "Entitas-Sync-Framework",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteNetLibManager",
+          "description": "⭐114 🕒9d ago- Higher level implementation for LiteNetLib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T02:02:05Z",
+            "owner": "insthync",
+            "repo": "LiteNetLibManager",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MassiveNet",
+          "description": "⭐112 🕒10y ago- Unity3d UDP networking library focused on high-CCU, multi-server architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-01-16T01:27:31Z",
+            "owner": "jakevn",
+            "repo": "MassiveNet",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UNet-Controller",
+          "description": "⭐92 🕒6y ago- A CharacterController based controller for Unity's new Networking system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-26T09:57:00Z",
+            "owner": "h33p",
+            "repo": "UNet-Controller",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RESTClient",
+          "description": "⭐52 🕒4y ago- REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-28T15:42:04Z",
+            "owner": "Unity3dAzure",
+            "repo": "RESTClient",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityWebSocket",
+          "description": "⭐52 🕒7y ago- Web Socket client for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-27T18:24:12Z",
+            "owner": "Unity3dAzure",
+            "repo": "UnityWebSocket",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeedDate",
+          "description": "⭐24 🕒1y ago- SpeedDate Masterserver: Connecting Players.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T15:20:26Z",
+            "owner": "proepkes",
+            "repo": "SpeedDate",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BulletSharpUnity3d",
+          "description": "⭐561 🕒1y ago- A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-26T08:04:21Z",
+            "owner": "Phong13",
+            "repo": "BulletSharpUnity3d",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphics-Raycast",
+          "description": "⭐166 🕒2y ago- GPU-based raycaster for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T06:36:05Z",
+            "owner": "staggartcreations",
+            "repo": "Graphics-Raycast",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRelativity",
+          "description": "⭐23 🕒4mo ago 🍴- A fork of the (MIT Game Lab) OpenRelativity project, by the developers of the quantum computer simulation library, to add qubit simulation in and with relativistic gravity backgrounds, to generalize built-in Unity PhysX to quantum relativity (including shaders).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T14:53:01Z",
+            "owner": "vm6502q",
+            "repo": "OpenRelativity",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Physic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "unity-webview",
+          "description": "⭐2.5k 🕒19d ago- A plugin for Unity 5 that overlays WebView components on Unity view. It works on Android, iOS, Unity Web Player, and macOS (Windows is not supported for now).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C++",
+            "last_commit": "2026-08-11T13:48:39Z",
+            "owner": "gree",
+            "repo": "unity-webview",
+            "stars": 2654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-android-notifications",
+          "description": "⭐558 🕒5y ago- Unity3D Plugin for Android local notifications with example project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-09-30T15:42:04Z",
+            "owner": "Agasper",
+            "repo": "unity-android-notifications",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-native-sharing",
+          "description": "⭐453 🕒2y ago- A Unity plugin to open native sharing dialogs on iOS and Android, primarily for sharing screenshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T09:39:42Z",
+            "owner": "NicholasSheehan",
+            "repo": "Unity-Native-Sharing",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-analytics-plugin-for-unity",
+          "description": "⭐399 🕒1y ago- Google Analytics plugin for the Unity game creation system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-03-14T06:03:42Z",
+            "owner": "googleanalytics",
+            "repo": "google-analytics-plugin-for-unity",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reign-Unity-Plugin5",
+          "description": "⭐56 🕒8y ago- This Reign API is a cross-platform, unified API for the Unity game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-06-18T23:17:41Z",
+            "owner": "reignstudios",
+            "repo": "Reign-Unity-Plugin5",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wavefunctioncollapse",
+          "description": "⭐4.8k 🕒4y ago- Walk through an infinite, procedurally generated city.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-03-28T01:04:35Z",
+            "owner": "marian42",
+            "repo": "wavefunctioncollapse",
+            "stars": 4857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProceduralToolkit",
+          "description": "⭐2.8k 🕒1y ago- Procedural generation library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-04T23:31:28Z",
+            "owner": "Syomus",
+            "repo": "ProceduralToolkit",
+            "stars": 2898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProceduralLevelGenerator-Unity",
+          "description": "⭐877 🕒3mo ago- Unity plugin from procedural dungeon generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T06:34:53Z",
+            "owner": "OndrejNepozitek",
+            "repo": "Edgar-Unity",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DungeonGenerator",
+          "description": "⭐484 🕒8y ago- A dungeon generator for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-02-10T11:43:42Z",
+            "owner": "jongallant",
+            "repo": "DungeonGenerator",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-procedural-tree",
+          "description": "⭐418 🕒2y ago- Procedural tree builder for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-16T15:50:14Z",
+            "owner": "mattatz",
+            "repo": "unity-procedural-tree",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Procedural-Cave-Generator",
+          "description": "⭐309 🕒7y ago- Unity scripts that procedurally generate ready-to-use cave meshes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-01-20T19:42:08Z",
+            "owner": "AK-Saigyouji",
+            "repo": "Procedural-Cave-Generator",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-procedural-flower",
+          "description": "⭐251 🕒8y ago- Procedural flower generator for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-01-30T05:41:06Z",
+            "owner": "mattatz",
+            "repo": "unity-procedural-flower",
+            "stars": 258
+          }
+        }
+      ],
+      "title": "Procedural Generation Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ObjectPool",
+          "description": "⭐422 🕒6y ago- Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-14T17:31:16Z",
+            "owner": "UnityPatterns",
+            "repo": "ObjectPool",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerKit",
+          "description": "⭐388 🕒4y ago- Object pool manager for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-22T18:06:31Z",
+            "owner": "prime31",
+            "repo": "RecyclerKit",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-object-pool",
+          "description": "⭐282 🕒4y ago- An elegant object pool and manager implementation for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-08T11:20:48Z",
+            "owner": "thefuntastic",
+            "repo": "unity-object-pool",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickPool",
+          "description": "⭐33 🕒9y ago- Simple pooling toolkit for Unity game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-03-30T10:28:11Z",
+            "owner": "densylkin",
+            "repo": "QuickPool",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Pooling System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "protobuf-net",
+          "description": "⭐4.9k 🕒27d ago- Protocol Buffers library for idiomatic .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:18:01Z",
+            "owner": "protobuf-net",
+            "repo": "protobuf-net",
+            "stars": 4965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-unity",
+          "description": "⭐467 🕒3y ago- Automatic .proto files compilation in Unity project to C# as you edit them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-10-09T10:26:55Z",
+            "owner": "5argon",
+            "repo": "protobuf-unity",
+            "stars": 476
+          }
+        }
+      ],
+      "title": "Profobuf"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "unity-atoms",
+          "description": "⭐1.3k 🕒21d ago- Tiny modular pieces utilizing the power of Scriptable Objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T06:12:00Z",
+            "owner": "unity-atoms",
+            "repo": "unity-atoms",
+            "stars": 1390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScriptableObject-Architecture",
+          "description": "⭐1.0k 🕒1y ago 🏛️- Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-12-17T22:10:49Z",
+            "owner": "DanielEverland",
+            "repo": "ScriptableObject-Architecture",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yaSingleton",
+          "description": "⭐165 🕒4y ago- A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-01T12:41:02Z",
+            "owner": "heyJordanParker",
+            "repo": "yaSingleton",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scriptable-Framework",
+          "description": "⭐65 🕒5y ago- A Unity Framework for modular app creation based on ScriptableObject architecture, data oriented design and event driven programming to help programmers and designers adhere to the 5 SOLID programming principals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-20T09:58:32Z",
+            "owner": "pablothedolphin",
+            "repo": "Scriptable-Framework",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOFlow",
+          "description": "⭐0- A ScriptableObject oriented design SDK.",
+          "children": []
+        }
+      ],
+      "title": "Scriptable Object"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YarnSpinner",
+          "description": "⭐2.6k 🕒11d ago- Yarn Spinner is a tool for building interactive dialogue in games! .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T02:36:15Z",
+            "owner": "YarnSpinnerTool",
+            "repo": "YarnSpinner",
+            "stars": 2822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityNativeScripting",
+          "description": "⭐1.4k 🕒4y ago- Unity Scripting in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-03-06T18:42:34Z",
+            "owner": "jacksondunstan",
+            "repo": "UnityNativeScripting",
+            "stars": 1376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-python",
+          "description": "⭐353 🕒3y ago- Python plugin for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-02-05T23:49:59Z",
+            "owner": "exodrifter",
+            "repo": "unity-python",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniScript",
+          "description": "⭐157 🕒3y ago- Brings C# scripting into Unity which acts as native code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-21T13:13:03Z",
+            "owner": "pjc0247",
+            "repo": "UniScript",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlowSharp",
+          "description": "⭐136 🕒2y ago- C# interpreter written in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T11:05:32Z",
+            "owner": "pjc0247",
+            "repo": "SlowSharp",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Scriptings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "play-games-plugin-for-unity",
+          "description": "⭐3.6k 🕒1mo ago- Google Play Games plugin for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T04:57:06Z",
+            "owner": "playgameservices",
+            "repo": "play-games-plugin-for-unity",
+            "stars": 3657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "line-sdk-unity",
+          "description": "⭐123 🕒2mo ago- Provides a modern way of implementing LINE APIs in Unity games, for iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-19T04:23:01Z",
+            "owner": "line",
+            "repo": "line-sdk-unity",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reaktion",
+          "description": "⭐1.1k 🕒10y ago- Audio reactive animation toolkit for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-07-07T14:17:15Z",
+            "owner": "keijiro",
+            "repo": "Reaktion",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-Beat-Detection",
+          "description": "⭐495 🕒8y ago- Musical beat detection and audio spectrum analysis for use with the Unity game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-02-21T14:59:35Z",
+            "owner": "allanpichardo",
+            "repo": "Unity-Beat-Detection",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibNoise.Unity",
+          "description": "⭐432 🕒3y ago- Coherent noise library for Unity, a port of LibNoise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-19T12:22:31Z",
+            "owner": "ricardojmendez",
+            "repo": "LibNoise.Unity",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicEngine",
+          "description": "⭐408 🕒2y ago- Make music synced game with Unity / ADX2 / Wwise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-09T09:50:08Z",
+            "owner": "geekdrums",
+            "repo": "MusicEngine",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usfxr",
+          "description": "⭐362 🕒6y ago 🏛️- A C# library used to generate and play game-like procedural audio effects inside Unity. With usfxr, one can easily design and synthesize original sound in real time for actions such as item pickups, jumps, lasers, hits, explosions, and more, without ever leaving the Unity editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-01-22T19:14:29Z",
+            "owner": "zeh",
+            "repo": "usfxr",
+            "stars": 367
+          }
+        }
+      ],
+      "title": "Sounds"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotween",
+          "description": "⭐2.5k 🕒2mo ago- A Unity C# animation engine. HOTween v2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T08:38:20Z",
+            "owner": "Demigiant",
+            "repo": "dotween",
+            "stars": 2674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LitMotion",
+          "description": "⭐1.6k 🕒4mo ago- Lightning-fast and Zero Allocation Tween Library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-30T09:49:06Z",
+            "owner": "annulusgames",
+            "repo": "LitMotion",
+            "stars": 2272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-tweens",
+          "description": "⭐690 🕒1y ago- Lightweight tween library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-15T11:41:39Z",
+            "owner": "jeffreylanters",
+            "repo": "unity-tweens",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeanTween",
+          "description": "⭐624 🕒3y ago- LeanTween is an efficient animation engine for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-02T17:44:59Z",
+            "owner": "dentedpixel",
+            "repo": "LeanTween",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoKit",
+          "description": "⭐588 🕒4y ago- Lightweight tween library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-19T05:36:16Z",
+            "owner": "prime31",
+            "repo": "GoKit",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZestKit",
+          "description": "⭐160 🕒5y ago- Tween library for Unity. The best of GoKit and GoKitLite combined in an easy to use API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-02-03T03:47:00Z",
+            "owner": "prime31",
+            "repo": "ZestKit",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uween",
+          "description": "⭐151 🕒4y ago- Lightweight tween library for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-05-25T02:04:16Z",
+            "owner": "beinteractive",
+            "repo": "Uween",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Tweening"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UIEffect",
+          "description": "⭐6.7k 🕒6d ago- UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T08:34:07Z",
+            "owner": "mob-sakai",
+            "repo": "UIEffect",
+            "stars": 7541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParticleEffectForUGUI",
+          "description": "⭐5.1k 🕒4mo ago- This plugin provide a component to render particle effect for uGUI in Unity 2018.2+. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-04T06:00:57Z",
+            "owner": "mob-sakai",
+            "repo": "ParticleEffectForUGUI",
+            "stars": 5937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FancyScrollView",
+          "description": "⭐3.3k 🕒3y ago- A scrollview component that can be implemented flexible flexible animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-08T01:35:12Z",
+            "owner": "setchi",
+            "repo": "FancyScrollView",
+            "stars": 3520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FairyGUI-unity",
+          "description": "⭐2.8k 🕒3mo ago- A flexible UI framework for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-03T09:04:06Z",
+            "owner": "fairygui",
+            "repo": "FairyGUI-unity",
+            "stars": 2961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoopScrollRect",
+          "description": "⭐2.6k 🕒28d ago- UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-07T20:48:36Z",
+            "owner": "qiankanglai",
+            "repo": "LoopScrollRect",
+            "stars": 2761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIWidgets",
+          "description": "⭐2.0k 🕒4y ago 🏛️- UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-04-29T08:46:05Z",
+            "owner": "UnityTech",
+            "repo": "UIWidgets",
+            "stars": 1955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-UI-Rounded-Corners",
+          "description": "⭐1.6k 🕒9mo ago- This components and shaders allows you to add rounded corners to UI element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-19T13:23:02Z",
+            "owner": "kirevdokimov",
+            "repo": "Unity-UI-Rounded-Corners",
+            "stars": 1737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMPEffects",
+          "description": "⭐582 🕒4mo ago- Easily apply text animations and other effects with custom tags. Yarn Spinner compatible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-05T11:11:22Z",
+            "owner": "Luca3317",
+            "repo": "TMPEffects",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialUI",
+          "description": "⭐774 🕒8y ago- MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-06-20T07:40:18Z",
+            "owner": "Invex-Games",
+            "repo": "MaterialUI",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-UI-Polygon",
+          "description": "⭐638 🕒4y ago- Polygon renderer for the new Unity UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-03-11T08:55:39Z",
+            "owner": "CiaccoDavide",
+            "repo": "Unity-UI-Polygon",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recyclable-Scroll-Rect",
+          "description": "⭐585 🕒1y ago- Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-11T09:41:40Z",
+            "owner": "MdIqubal",
+            "repo": "Recyclable-Scroll-Rect",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-WinForms",
+          "description": "⭐545 🕒3y ago- Windows Forms wrapper for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-16T15:57:56Z",
+            "owner": "Meragon",
+            "repo": "Unity-WinForms",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sci-fi-ui",
+          "description": "⭐463 🕒5y ago- The uGUI Sci-Fi UI Design for Unity - now free and open-source!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2020-03-03T08:52:39Z",
+            "owner": "devdogio",
+            "repo": "sci-fi-ui",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinyEffectForUGUI",
+          "description": "⭐421 🕒6y ago- Shiny effect of uGUI, which does not need mask or normal map.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-06-24T06:51:35Z",
+            "owner": "mob-sakai",
+            "repo": "ShinyEffectForUGUI",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CharTweener",
+          "description": "⭐406 🕒3y ago- Unity3D - DOTween extensions for tweening TextMeshPro characters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-24T05:41:49Z",
+            "owner": "mdechatech",
+            "repo": "CharTweener",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnhancedScrollView",
+          "description": "⭐396 🕒3y ago- Cool 3d scoll view for Unity(NGUI 3D UGUI support).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-23T07:06:33Z",
+            "owner": "tinyantstudio",
+            "repo": "EnhancedScrollView",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-vertex-effects",
+          "description": "⭐378 🕒9y ago- Beautiful text outline for Unity UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-08-17T08:57:56Z",
+            "owner": "n-yoda",
+            "repo": "unity-vertex-effects",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RapidGUI",
+          "description": "⭐354 🕒2y ago- Unity OnGUI(IMGUI) extensions for Rapid prototyping/development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-10T10:09:49Z",
+            "owner": "fuqunaga",
+            "repo": "RapidGUI",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delight",
+          "description": "⭐340 🕒3y ago- Component-oriented UI framework for Unity https://delight-dev.github.io/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-28T18:28:25Z",
+            "owner": "delight-dev",
+            "repo": "Delight",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uGUI-Effect-Tool",
+          "description": "⭐325 🕒7y ago- Vertex color UI Effect for Unity UI (uGUI).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-29T15:39:38Z",
+            "owner": "westhillapps",
+            "repo": "uGUI-Effect-Tool",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityGUI",
+          "description": "⭐238 🕒1y ago- UGUI Panel Systems for navigation, animation and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-20T06:51:33Z",
+            "owner": "coryleach",
+            "repo": "UnityGUI",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ugui-mvvm",
+          "description": "⭐214 🕒4y ago- Unity3D uGUI mvvm databinding via the standard IXChanged interfaces used in wpf (INotifyPropertyChanged, INotifyCollectionChanged, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-18T17:07:43Z",
+            "owner": "jbruening",
+            "repo": "ugui-mvvm",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityRecyclingListView",
+          "description": "⭐191 🕒4y ago 🏛️- A fast scrolling list component for Unity UI which recycles its child elements.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-04-12T09:51:26Z",
+            "owner": "sinbad",
+            "repo": "UnityRecyclingListView",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UGUIExtend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-05T05:49:38Z",
+            "owner": "L-Lawliet",
+            "repo": "UGUIExtend",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiquidSwipeUnity",
+          "description": "⭐116 🕒5y ago- Butter smooth full page swiping animation with a masked wave effect in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-11-05T12:56:42Z",
+            "owner": "FaizanDurrani",
+            "repo": "LiquidSwipeUnity",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniMap",
+          "description": "⭐34 🕒9y ago- Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729 ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-04-18T20:41:09Z",
+            "owner": "Area730",
+            "repo": "MiniMap",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muip",
+          "description": "⭐0- Modern UI Pack for Unity engine.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "lomenui",
+          "description": "⭐0- Stylish UI package for Unity engine.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ultimatehudskins",
+          "description": "⭐0- Stylish HUD layouts for Unity engine.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "looader",
+          "description": "⭐0- Loading screen solution for Unity engine.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "PageTurningUIEffect",
+          "description": "⭐0- A page turning UI effect made with unity, the paper deformation is determined by the pins' position on it.",
+          "children": []
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniRx",
+          "description": "⭐7.3k 🕒1y ago 🏛️- Reactive Extensions for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-02-16T10:42:13Z",
+            "owner": "neuecc",
+            "repo": "UniRx",
+            "stars": 7330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LINQ-to-GameObject-for-Unity",
+          "description": "⭐4.4k 🕒2d ago- Traverse GameObject Hierarchy by LINQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T03:27:13Z",
+            "owner": "Cysharp",
+            "repo": "ZLinq",
+            "stars": 5238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NaughtyAttributes",
+          "description": "⭐4.9k 🕒1y ago- Attribute Extensions for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-29T17:47:03Z",
+            "owner": "dbrizov",
+            "repo": "NaughtyAttributes",
+            "stars": 5195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NuGetForUnity",
+          "description": "⭐4.0k 🕒1mo ago- A NuGet Package Manager for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-19T18:34:16Z",
+            "owner": "GlitchEnzo",
+            "repo": "NuGetForUnity",
+            "stars": 4537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deform",
+          "description": "⭐3.5k 🕒10mo ago- A fully-featured deformer system for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-04T15:34:00Z",
+            "owner": "keenanwoodall",
+            "repo": "Deform",
+            "stars": 3673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rant",
+          "description": "⭐3.0k 🕒5y ago 🏛️- Robust text engine for procedural generation and postprocessing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-26T16:59:26Z",
+            "owner": "TheBerkin",
+            "repo": "rant3",
+            "stars": 2936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphy",
+          "description": "⭐2.8k 🕒1y ago- Graphy is the ultimate, easy to use, feature packed stats monitor and debugger for your Unity project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-04T10:24:05Z",
+            "owner": "Tayx94",
+            "repo": "graphy",
+            "stars": 2900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "odin-serializer",
+          "description": "⭐1.8k 🕒1y ago- Fast, robust, powerful and extendible .NET serializer built for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T13:14:53Z",
+            "owner": "TeamSirenix",
+            "repo": "odin-serializer",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityStudio",
+          "description": "⭐1.4k 🕒4y ago- Unity Studio is a tool for exploring, extracting and exporting assets from Unity games and apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-20T20:50:44Z",
+            "owner": "RaduMC",
+            "repo": "AssetStudio",
+            "stars": 1420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InkPainter",
+          "description": "⭐1.3k 🕒7y ago- Texture-Paint on Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-08-17T05:26:37Z",
+            "owner": "EsProgram",
+            "repo": "InkPainter",
+            "stars": 1308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Sharp-Promise",
+          "description": "⭐1.2k 🕒5y ago- Promises library for C# for management of asynchronous operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-05-11T14:35:39Z",
+            "owner": "Real-Serious-Games",
+            "repo": "C-Sharp-Promise",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fullserializer",
+          "description": "⭐1.1k 🕒1y ago- A robust JSON serialization framework that just works with support for all major Unity export platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-05T12:09:00Z",
+            "owner": "jacobdufault",
+            "repo": "fullserializer",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RuntimeUnityEditor",
+          "description": "⭐950 🕒1mo ago- In-game inspector and debugging tools for applications made with Unity3D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T01:00:52Z",
+            "owner": "ManlyMarco",
+            "repo": "RuntimeUnityEditor",
+            "stars": 1103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityTimer",
+          "description": "⭐1.0k 🕒4y ago- Powerful and convenient library for running actions after a delay in Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-02T04:06:36Z",
+            "owner": "akbiggs",
+            "repo": "UnityTimer",
+            "stars": 1090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unityassets",
+          "description": "⭐1.1k 🕒7y ago 🏛️- Assorted assets previously on sale on the Unity Asset Store, now free on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2017-11-24T21:10:25Z",
+            "owner": "fholm",
+            "repo": "unityassets",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityOctree",
+          "description": "⭐973 🕒4y ago 🏛️- A dynamic, loose octree implementation for Unity written in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-06-07T22:22:16Z",
+            "owner": "Nition",
+            "repo": "UnityOctree",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityMainThreadDispatcher",
+          "description": "⭐969 🕒1y ago- A simple, thread-safe way of executing actions (Such as UI manipulations) on the Unity Main Thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-14T23:51:26Z",
+            "owner": "PimDeWitte",
+            "repo": "UnityMainThreadDispatcher",
+            "stars": 993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moments",
+          "description": "⭐865 🕒2y ago- A quick GIF replay recorder for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-11T14:01:51Z",
+            "owner": "Chman",
+            "repo": "Moments",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity3DRuntimeTransformGizmo",
+          "description": "⭐745 🕒3y ago- A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-15T02:08:33Z",
+            "owner": "HiddenMonk",
+            "repo": "Unity3DRuntimeTransformGizmo",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demilib",
+          "description": "⭐753 🕒3mo ago- A library of various utilities and tools for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T08:58:51Z",
+            "owner": "Demigiant",
+            "repo": "demilib",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityPack",
+          "description": "⭐745 🕒3y ago- Python deserialization library for Unity3D Asset format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-06T00:35:07Z",
+            "owner": "HearthSim",
+            "repo": "UnityPack",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projeny",
+          "description": "⭐702 🕒6y ago- A project and package manager for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-02-05T17:19:30Z",
+            "owner": "modesttree",
+            "repo": "Projeny",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-mulligan-renamer",
+          "description": "⭐579 🕒3y ago- Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-04T16:51:28Z",
+            "owner": "redbluegames",
+            "repo": "unity-mulligan-renamer",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uREPL",
+          "description": "⭐567 🕒3y ago- In-game powerful REPL environment for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-11T10:02:22Z",
+            "owner": "hecomi",
+            "repo": "uREPL",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniGif",
+          "description": "⭐474 🕒2y ago- GIF image decoder for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-11T11:37:33Z",
+            "owner": "westhillapps",
+            "repo": "UniGif",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alchemy-Circles-Generator",
+          "description": "⭐406 🕒3y ago- A simple procedural generator of alchemy circles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-28T03:45:51Z",
+            "owner": "CiaccoDavide",
+            "repo": "Alchemy-Circles-Generator",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmd-for-unity",
+          "description": "⭐425 🕒6y ago- MikuMikuDance for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-26T11:23:14Z",
+            "owner": "mmd-for-unity-proj",
+            "repo": "mmd-for-unity",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityGoogleDrive",
+          "description": "⭐416 🕒1y ago- Google Drive SDK for Unity game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-15T21:45:33Z",
+            "owner": "elringus",
+            "repo": "unity-google-drive",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unitysizeexplorer",
+          "description": "⭐388 🕒4y ago- Visualize how much space each asset in your Unity game takes and quickly optimize your game's file size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-18T06:08:43Z",
+            "owner": "aschearer",
+            "repo": "unitysizeexplorer",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerializableCallback",
+          "description": "⭐378 🕒1y ago- UnityEvent and System.Func had a child.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-03T18:18:19Z",
+            "owner": "Siccity",
+            "repo": "SerializableCallback",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dialogue",
+          "description": "⭐332 🕒5y ago- Node based dialogue system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-20T08:56:02Z",
+            "owner": "Siccity",
+            "repo": "Dialogue",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity-EasingLibraryVisualisation",
+          "description": "⭐304 🕒8y ago- Front end visualisation of 40 common easing equations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-07-25T09:38:04Z",
+            "owner": "noisecrime",
+            "repo": "Unity-EasingLibraryVisualisation",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-utils",
+          "description": "⭐285 🕒3y ago- Different help scripts for Unity engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-11T09:49:07Z",
+            "owner": "nubick",
+            "repo": "unity-utils",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnionRingUnity",
+          "description": "⭐263 🕒1y ago- Auto 9 slice sprite generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-06T15:21:25Z",
+            "owner": "kyubuns",
+            "repo": "Auto9Slicer",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveformProvider",
+          "description": "⭐250 🕒7y ago- Provide a texture to simulate waves with Unity. Require InkPainter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-05-12T20:17:30Z",
+            "owner": "EsProgram",
+            "repo": "WaveformProvider",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatUsesThis",
+          "description": "⭐228 🕒1y ago- Right click an asset and get a list of assets that use it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-16T18:24:43Z",
+            "owner": "Facepunch",
+            "repo": "WhatUsesThis",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InGameReplay",
+          "description": "⭐217 🕒8y ago- Allow you to record the transform of any objects to replay it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-02-02T11:18:35Z",
+            "owner": "FeNo",
+            "repo": "InGameReplay",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitstrap",
+          "description": "⭐207 🕒7mo ago- BitStrap is BitCake's collection of Unity tools that improve our workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-10T17:25:25Z",
+            "owner": "bitcake",
+            "repo": "bitstrap",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disruptor-unity3d",
+          "description": "⭐200 🕒8y ago- Basic implementation of Disruptor for Unity3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-06-10T19:21:08Z",
+            "owner": "dave-hillier",
+            "repo": "disruptor-unity3d",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E7Unity",
+          "description": "⭐171 🕒3y ago- Common Unity resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-22T09:38:34Z",
+            "owner": "5argon",
+            "repo": "E7Unity",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityCsvUtil",
+          "description": "⭐145 🕒3y ago 🏛️- Lightweight but type safe CSV serialise/deserialise of objects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-07-17T10:17:59Z",
+            "owner": "sinbad",
+            "repo": "UnityCsvUtil",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeightedRandomSelector",
+          "description": "⭐132 🕒5y ago- Very fast C# class for weighted random picking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-07-15T11:39:53Z",
+            "owner": "viliwonka",
+            "repo": "WeightedRandomSelector",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Forms.Unity",
+          "description": "⭐132 🕒6y ago- Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-03T13:35:42Z",
+            "owner": "aosoft",
+            "repo": "Xamarin.Forms.Unity",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelSpriteGenerator-Unity",
+          "description": "⭐129 🕒9y ago- A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-01-01T09:30:22Z",
+            "owner": "Shogan",
+            "repo": "PixelSpriteGenerator-Unity",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityMultiBuild",
+          "description": "⭐103 🕒3y ago 🏛️- Batch build for multiple platforms from within the Unity editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-12-20T02:21:13Z",
+            "owner": "sinbad",
+            "repo": "UnityMultiBuild",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityPSDLayoutTool",
+          "description": "⭐91 🕒8y ago- A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-19T21:40:36Z",
+            "owner": "GlitchEnzo",
+            "repo": "UnityPSDLayoutTool",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity.Library.eppz",
+          "description": "⭐96 🕒7y ago- Collection of libraries for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-01-29T15:28:10Z",
+            "owner": "Geri-Borbas",
+            "repo": "Unity.Library.eppz",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataBind",
+          "description": "⭐71 🕒8y ago- Simple data binding for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-11-23T05:23:23Z",
+            "owner": "tinrab",
+            "repo": "DataBind",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrameCapture",
+          "description": "⭐66 🕒8y ago 🏛️- A simple frame-by-frame capture tool for Unity to record perfectly smooth, supersampled replays or cinematics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2017-06-04T21:54:03Z",
+            "owner": "Chman",
+            "repo": "FrameCapture",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DMath",
+          "description": "⭐58 🕒4y ago- Unity C# 3D Math methods library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-23T15:43:49Z",
+            "owner": "GregLukosek",
+            "repo": "3DMath",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityAsyncRoutines",
+          "description": "⭐51 🕒8y ago- An extremely lightweight Unity library for creating and managing asynchronous coroutines for easy, straight-forward multi-threading and parallellism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-03-21T16:37:30Z",
+            "owner": "TorVestergaard",
+            "repo": "UnityAsyncRoutines",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoroutineChain",
+          "description": "⭐44 🕒3y ago- Unity3d, Coroutine, scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-03T06:40:02Z",
+            "owner": "geniikw",
+            "repo": "CoroutineChain",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDBase",
+          "description": "⭐40 🕒6y ago 🏛️- Module-based game template for Unity. Modules in UDBase are called Controllers, their implementation can be replaced without changing your project source code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-12-17T12:43:57Z",
+            "owner": "KonH",
+            "repo": "UDBase",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GradientGenerator",
+          "description": "⭐35 🕒6y ago- A Unity script to generate multiple variants of evenly distributed based on input .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-04-30T23:51:19Z",
+            "owner": "5argon",
+            "repo": "GradientGenerator",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GetComponentAttribute",
+          "description": "⭐25 🕒6y ago- A simple DI plugin for getting MonoBehaviour components just with an attribute over fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-08-10T16:01:42Z",
+            "owner": "mert-dev-acc",
+            "repo": "GetComponentAttribute",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleSheetsUnity",
+          "description": "⭐19 🕒7y ago- Get data from your private Google Sheets to Unity! (Read-only).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-07-31T18:44:34Z",
+            "owner": "5argon",
+            "repo": "GoogleSheetsUnity",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unity-routines",
+          "description": "⭐17 🕒6y ago- Replacement for Unity coroutines that supports hierarchical routines and pooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-18T21:14:23Z",
+            "owner": "tomblind",
+            "repo": "unity-routines",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CropTexture",
+          "description": "⭐16 🕒7y ago- Crop and resize texture in unity editor! Open it: Press F1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-01T12:49:00Z",
+            "owner": "natsupy",
+            "repo": "CropTexture",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityToolbag",
+          "description": "⭐0- Variety of Unity scripts and tools.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "IMP",
+          "description": "⭐0- Billboard imposter baking for Unity.",
+          "children": []
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vlc-unity",
+          "description": "⭐181 🕒today- LibVLC plugin for Unity to integrate multimedia playback inside your Unity apps and games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T12:01:04Z",
+            "owner": "videolan",
+            "repo": "vlc-unity",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vimeo-unity-sdk",
+          "description": "⭐213 🕒4y ago- Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-04-20T19:12:43Z",
+            "owner": "vimeo",
+            "repo": "vimeo-unity-sdk",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VoxReader",
+          "description": "⭐79 🕒27d ago- A library to read .vox files created with MagicaVoxel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-13T07:24:08Z",
+            "owner": "sandrofigo",
+            "repo": "VoxReader",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityVoxelTools",
+          "description": "⭐74 🕒7y ago- Collection of Voxel Utilities for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-27T16:43:55Z",
+            "owner": "meniku",
+            "repo": "UnityVoxelTools",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Voxel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MixedRealityToolkit-Unity",
+          "description": "⭐6.1k 🕒1y ago- MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T02:46:21Z",
+            "owner": "microsoft",
+            "repo": "MixedRealityToolkit-Unity",
+            "stars": 6075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VRTK",
+          "description": "⭐3.7k 🕒1y ago- A productive VR Toolkit for rapidly building VR solutions in Unity3d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-24T05:03:30Z",
+            "owner": "ExtendRealityLtd",
+            "repo": "VRTK",
+            "stars": 3721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gvr-unity-sdk",
+          "description": "⭐2.7k 🕒5y ago 🏛️- Google VR SDK for Unity http://developers.google.com/vr/unity/.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2019-11-08T00:39:34Z",
+            "owner": "googlevr",
+            "repo": "gvr-unity-sdk",
+            "stars": 2722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewtonVR",
+          "description": "⭐795 🕒1y ago- A virtual reality interaction system for unity based on physics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-03T19:28:34Z",
+            "owner": "TomorrowTodayLabs",
+            "repo": "NewtonVR",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR-Builder",
+          "description": "⭐115 🕒5d ago- A Unity plugin for creating interactive VR applications by using a visual editor instead of coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T09:14:41Z",
+            "owner": "MindPort-GmbH",
+            "repo": "VR-Builder",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tbutt-vr",
+          "description": "⭐53 🕒5y ago- A lightweight multiplatform VR interface for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-11-15T00:00:44Z",
+            "owner": "turbobutton",
+            "repo": "tbutt-vr",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VRWorksAudio-Unity",
+          "description": "⭐12 🕒6y ago- Unofficial implementation of NVIDIA's VRWorks - Audio for Unity3D.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-09-05T17:06:56Z",
+            "owner": "Andy260",
+            "repo": "VRWorksAudio-Unity",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightweight-VR",
+          "description": "⭐13 🕒5y ago- An open sourced, light weight, VR input framework. This is basically an empty Unity project that's been setup for easy VR integration without having to pull down any packages. No need for Steam VR or OVR plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-10-26T02:30:40Z",
+            "owner": "Spatial-Cinematics",
+            "repo": "Lightweight-VR",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "VR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Assets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:39.493Z",
+    "original_repository": "StefanoCecere/awesome-opensource-unity",
+    "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
+    "enhanced_repository": "enhansome/enhansome-opensource-unity",
+    "enhanced_repository_description": null,
+    "title": "Awesome Opensource Unity with stars"
+  }
+}
