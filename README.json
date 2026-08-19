@@ -285,7 +285,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-19T11:51:27Z",
+            "last_commit": "2026-08-19T14:18:28Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -580,7 +580,7 @@
                 "last_commit": "2019-10-01T17:16:19Z",
                 "owner": "ricardojmendez",
                 "repo": "UnitySteer",
-                "stars": 1251
+                "stars": 1252
               }
             },
             {
@@ -1633,7 +1633,7 @@
                 "last_commit": "2023-01-03T15:31:22Z",
                 "owner": "FreyaHolmer",
                 "repo": "ShaderForge",
-                "stars": 2780
+                "stars": 2781
               }
             },
             {
@@ -3042,7 +3042,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:21:54Z",
+                "last_commit": "2026-08-19T14:35:45Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2320
@@ -3662,7 +3662,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:21:09Z",
+                "last_commit": "2026-08-19T13:04:15Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4968
@@ -3970,7 +3970,7 @@
                 "last_commit": "2026-07-26T08:38:20Z",
                 "owner": "Demigiant",
                 "repo": "dotween",
-                "stars": 2677
+                "stars": 2678
               }
             },
             {
@@ -4157,7 +4157,7 @@
                 "last_commit": "2021-04-29T08:46:05Z",
                 "owner": "UnityTech",
                 "repo": "UIWidgets",
-                "stars": 1955
+                "stars": 1956
               }
             },
             {
@@ -5548,7 +5548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:50.957Z",
+    "last_updated": "2026-08-19T15:38:57.103Z",
     "original_repository": "StefanoCecere/awesome-opensource-unity",
     "original_repository_id": 222224026,
     "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
