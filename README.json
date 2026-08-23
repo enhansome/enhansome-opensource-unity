@@ -17,7 +17,7 @@
                 "last_commit": "2023-06-16T14:51:41Z",
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2606
+                "stars": 2607
               }
             },
             {
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 166197484,
                 "language": "C#",
-                "last_commit": "2026-08-21T17:45:00Z",
+                "last_commit": "2026-08-23T14:04:00Z",
                 "owner": "vgwb",
                 "repo": "Antura",
                 "stars": 119
@@ -195,7 +195,7 @@
                 "last_commit": "2021-10-09T08:56:15Z",
                 "owner": "Reinisch",
                 "repo": "Darkest-Dungeon-Unity",
-                "stars": 1369
+                "stars": 1371
               }
             },
             {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-21T12:00:58Z",
+            "last_commit": "2026-08-23T11:46:06Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 820498659,
             "language": "C#",
-            "last_commit": "2026-08-22T15:12:47Z",
+            "last_commit": "2026-08-22T15:29:17Z",
             "owner": "icosa-foundation",
             "repo": "open-blocks",
             "stars": 120
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-20T20:33:11Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5254
+                "stars": 5256
               }
             },
             {
@@ -460,7 +460,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19645
+                "stars": 19643
               }
             },
             {
@@ -550,7 +550,7 @@
                 "last_commit": "2021-09-28T10:43:20Z",
                 "owner": "thefuntastic",
                 "repo": "Unity3d-Finite-State-Machine",
-                "stars": 1691
+                "stars": 1690
               }
             },
             {
@@ -607,7 +607,7 @@
                 "archived": false,
                 "id": 613697580,
                 "language": "C#",
-                "last_commit": "2026-08-16T01:49:52Z",
+                "last_commit": "2026-08-23T15:19:32Z",
                 "owner": "ikpil",
                 "repo": "DotRecast",
                 "stars": 932
@@ -767,7 +767,7 @@
                 "last_commit": "2026-07-21T09:21:18Z",
                 "owner": "Yuan-ManX",
                 "repo": "ai-game-devtools",
-                "stars": 1312
+                "stars": 1311
               }
             },
             {
@@ -972,7 +972,7 @@
                 "archived": false,
                 "id": 933482999,
                 "language": "C#",
-                "last_commit": "2026-08-21T18:00:00Z",
+                "last_commit": "2026-08-22T18:14:24Z",
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
                 "stars": 204
@@ -1027,7 +1027,7 @@
                 "last_commit": "2025-10-06T02:44:29Z",
                 "owner": "SpaceMadness",
                 "repo": "lunar-unity-console",
-                "stars": 885
+                "stars": 886
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2023-08-26T16:58:48Z",
                 "owner": "jacksondunstan",
                 "repo": "NativeCollections",
-                "stars": 420
+                "stars": 421
               }
             },
             {
@@ -1281,7 +1281,7 @@
                 "last_commit": "2026-08-12T19:18:21Z",
                 "owner": "arimger",
                 "repo": "Unity-Editor-Toolbox",
-                "stars": 1975
+                "stars": 1974
               }
             },
             {
@@ -1663,7 +1663,7 @@
                 "last_commit": "2023-08-10T07:30:07Z",
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2264
+                "stars": 2265
               }
             },
             {
@@ -1753,7 +1753,7 @@
                 "last_commit": "2018-11-16T11:33:18Z",
                 "owner": "AdultLink",
                 "repo": "RadialProgressBar",
-                "stars": 1039
+                "stars": 1040
               }
             },
             {
@@ -2169,10 +2169,10 @@
                 "archived": false,
                 "id": 51142932,
                 "language": "C#",
-                "last_commit": "2026-07-11T12:35:44Z",
+                "last_commit": "2026-08-23T04:08:31Z",
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5419
+                "stars": 5418
               }
             },
             {
@@ -2187,7 +2187,7 @@
                 "last_commit": "2024-01-26T10:54:12Z",
                 "owner": "modesttree",
                 "repo": "Zenject",
-                "stars": 2933
+                "stars": 2934
               }
             },
             {
@@ -2299,7 +2299,7 @@
                 "last_commit": "2025-01-16T22:16:39Z",
                 "owner": "snozbot",
                 "repo": "fungus",
-                "stars": 1945
+                "stars": 1944
               }
             },
             {
@@ -2545,7 +2545,7 @@
                 "last_commit": "2026-03-28T08:40:50Z",
                 "owner": "LogicalError",
                 "repo": "realtime-CSG-for-unity",
-                "stars": 1004
+                "stars": 1005
               }
             },
             {
@@ -2918,7 +2918,7 @@
                 "last_commit": "2026-08-22T15:16:12Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
-                "stars": 1541
+                "stars": 1542
               }
             }
           ],
@@ -2940,7 +2940,7 @@
                 "last_commit": "2026-08-21T16:41:52Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13198
+                "stars": 13199
               }
             },
             {
@@ -2955,7 +2955,7 @@
                 "last_commit": "2026-08-15T13:56:50Z",
                 "owner": "egametang",
                 "repo": "ET",
-                "stars": 9889
+                "stars": 9888
               }
             },
             {
@@ -3000,7 +3000,7 @@
                 "last_commit": "2026-08-20T14:50:27Z",
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3730
+                "stars": 3731
               }
             },
             {
@@ -3030,7 +3030,7 @@
                 "last_commit": "2026-08-07T05:02:02Z",
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3577
+                "stars": 3578
               }
             },
             {
@@ -3042,7 +3042,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-21T21:01:45Z",
+                "last_commit": "2026-08-22T16:42:43Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2320
@@ -3060,7 +3060,7 @@
                 "last_commit": "2026-08-21T03:42:31Z",
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2025
+                "stars": 2026
               }
             },
             {
@@ -3486,7 +3486,7 @@
                 "last_commit": "2021-03-28T01:04:35Z",
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4856
+                "stars": 4855
               }
             },
             {
@@ -3662,7 +3662,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-22T14:35:34Z",
+                "last_commit": "2026-08-23T15:09:03Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4969
@@ -4097,7 +4097,7 @@
                 "last_commit": "2026-07-04T06:00:57Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5957
+                "stars": 5958
               }
             },
             {
@@ -4479,7 +4479,7 @@
                 "last_commit": "2024-02-16T10:42:13Z",
                 "owner": "neuecc",
                 "repo": "UniRx",
-                "stars": 7330
+                "stars": 7329
               }
             },
             {
@@ -4494,7 +4494,7 @@
                 "last_commit": "2026-07-08T03:27:13Z",
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5241
+                "stars": 5242
               }
             },
             {
@@ -4524,7 +4524,7 @@
                 "last_commit": "2026-04-19T18:34:16Z",
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4550
+                "stars": 4551
               }
             },
             {
@@ -4539,7 +4539,7 @@
                 "last_commit": "2024-10-04T15:34:00Z",
                 "owner": "keenanwoodall",
                 "repo": "Deform",
-                "stars": 3675
+                "stars": 3676
               }
             },
             {
@@ -4749,7 +4749,7 @@
                 "last_commit": "2022-06-15T02:08:33Z",
                 "owner": "HiddenMonk",
                 "repo": "Unity3DRuntimeTransformGizmo",
-                "stars": 772
+                "stars": 771
               }
             },
             {
@@ -4806,7 +4806,7 @@
                 "archived": false,
                 "id": 74695208,
                 "language": "C#",
-                "last_commit": "2026-04-04T16:51:28Z",
+                "last_commit": "2026-08-23T12:59:53Z",
                 "owner": "redbluegames",
                 "repo": "unity-mulligan-renamer",
                 "stars": 590
@@ -5548,7 +5548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:28:49.486Z",
+    "last_updated": "2026-08-23T15:29:47.090Z",
     "original_repository": "StefanoCecere/awesome-opensource-unity",
     "original_repository_id": 222224026,
     "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
