@@ -373,7 +373,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-24T13:26:55Z",
+            "last_commit": "2026-08-24T15:17:36Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -388,7 +388,7 @@
             "archived": false,
             "id": 820498659,
             "language": "C#",
-            "last_commit": "2026-08-22T15:29:17Z",
+            "last_commit": "2026-08-24T14:35:51Z",
             "owner": "icosa-foundation",
             "repo": "open-blocks",
             "stars": 120
@@ -578,7 +578,7 @@
                 "last_commit": "2026-07-25T11:30:47Z",
                 "owner": "h8man",
                 "repo": "NavMeshPlus",
-                "stars": 2333
+                "stars": 2334
               }
             },
             {
@@ -2967,7 +2967,7 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10171
+                "stars": 10172
               }
             },
             {
@@ -3157,10 +3157,10 @@
                 "archived": false,
                 "id": 78869430,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:19:07Z",
+                "last_commit": "2026-08-24T15:27:12Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13206
+                "stars": 13207
               }
             },
             {
@@ -5812,7 +5812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:05.404Z",
+    "last_updated": "2026-08-24T15:48:21.842Z",
     "original_repository": "StefanoCecere/awesome-opensource-unity",
     "original_repository_id": 222224026,
     "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
