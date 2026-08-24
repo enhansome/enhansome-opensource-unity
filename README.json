@@ -106,7 +106,7 @@
                 "last_commit": "2026-01-23T07:21:00Z",
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2019
+                "stars": 2018
               }
             },
             {
@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 101340763,
                 "language": "C#",
-                "last_commit": "2026-08-16T03:44:26Z",
+                "last_commit": "2026-08-23T22:56:37Z",
                 "owner": "finol-digital",
                 "repo": "Card-Game-Simulator",
                 "stars": 436
@@ -185,6 +185,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VampireSurvivorsClone",
+              "description": "⭐217 🕒10h ago- A Vampire Survivors inspired mobile game built from scratch in Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723795739,
+                "language": "C#",
+                "last_commit": "2024-04-29T04:27:51Z",
+                "owner": "matthiasbroske",
+                "repo": "VampireSurvivorsClone",
+                "stars": 272
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Roguelite / Survival"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Darkest-Dungeon-Unity",
               "description": "⭐1.2k 🕒3y ago- Darkest Dungeon port in Unity. Almost completely identical to the original.",
               "children": [],
@@ -195,7 +217,7 @@
                 "last_commit": "2021-10-09T08:56:15Z",
                 "owner": "Reinisch",
                 "repo": "Darkest-Dungeon-Unity",
-                "stars": 1371
+                "stars": 1372
               }
             },
             {
@@ -269,6 +291,72 @@
           "description": null,
           "node_type": "group",
           "title": "Runner / Driving"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CubeWorld",
+              "description": "⭐417 🕒1y ago- Minecraft like game made in Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8893862,
+                "language": "C#",
+                "last_commit": "2023-10-11T20:23:07Z",
+                "owner": "federicodangelo",
+                "repo": "CubeWorld",
+                "stars": 452
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sandbox"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multiplayer-FPS",
+              "description": "⭐1.1k 🕒7mo ago- A multiplayer first-person shooter game based on Unity3D. Different types of input devices are supported, including Kinect, Xbox controllers, Leap motion, and VR Glasses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48963359,
+                "language": "C#",
+                "last_commit": "2024-12-30T23:02:58Z",
+                "owner": "Armour",
+                "repo": "Multiplayer-FPS",
+                "stars": 1242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shooter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "startcraft-unity3d",
+              "description": "⭐633 🕒11mo ago- A recreation of the classic Starcraft game by Blizzard, on Unity3D.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90529475,
+                "language": "C#",
+                "last_commit": "2025-09-12T14:34:05Z",
+                "owner": "coconauts",
+                "repo": "startcraft-unity3d",
+                "stars": 704
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Strategy"
         }
       ],
       "title": "Games"
@@ -285,7 +373,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-23T11:46:06Z",
+            "last_commit": "2026-08-24T13:26:55Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -423,7 +511,7 @@
                 "last_commit": "2026-08-20T20:33:11Z",
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5256
+                "stars": 5258
               }
             },
             {
@@ -460,7 +548,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19643
+                "stars": 19642
               }
             },
             {
@@ -505,7 +593,7 @@
                 "last_commit": "2024-05-20T02:59:02Z",
                 "owner": "sturdyspoon",
                 "repo": "unity-movement-ai",
-                "stars": 2139
+                "stars": 2138
               }
             },
             {
@@ -607,10 +695,10 @@
                 "archived": false,
                 "id": 613697580,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:19:32Z",
+                "last_commit": "2026-08-23T16:18:50Z",
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 932
+                "stars": 934
               }
             },
             {
@@ -767,7 +855,7 @@
                 "last_commit": "2026-07-21T09:21:18Z",
                 "owner": "Yuan-ManX",
                 "repo": "ai-game-devtools",
-                "stars": 1311
+                "stars": 1312
               }
             },
             {
@@ -826,6 +914,50 @@
           "description": null,
           "node_type": "group",
           "title": "AR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "unity-animator-helpers",
+              "description": "⭐137 🕒2y ago- A micro-framework for changing Unity 3D's Animator parameters with ScriptableObject(s). Designed to make going from custom scripts to Animator parameters easy. Works with 2D or 3D projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109467036,
+                "language": "C#",
+                "last_commit": "2023-04-19T10:08:41Z",
+                "owner": "ashblue",
+                "repo": "unity-animator-helpers",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AssetBundleManager",
+              "description": "⭐298 🕒1y ago- An asset bundle manager for Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119217334,
+                "language": "C#",
+                "last_commit": "2024-05-19T23:11:57Z",
+                "owner": "SadPandaStudios",
+                "repo": "AssetBundleManager",
+                "stars": 302
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Asset Bundle"
         },
         {
           "children": [
@@ -908,7 +1040,7 @@
                 "last_commit": "2023-10-08T14:35:58Z",
                 "owner": "Matthew-J-Spencer",
                 "repo": "Ultimate-2D-Controller",
-                "stars": 2163
+                "stars": 2165
               }
             },
             {
@@ -1027,7 +1159,7 @@
                 "last_commit": "2025-10-06T02:44:29Z",
                 "owner": "SpaceMadness",
                 "repo": "lunar-unity-console",
-                "stars": 886
+                "stars": 887
               }
             },
             {
@@ -1049,6 +1181,28 @@
           "description": null,
           "node_type": "group",
           "title": "Console"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLite4Unity3d",
+              "description": "⭐1.4k 🕒6y ago- SQLite made easy for Unity3d.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25026453,
+                "language": "C#",
+                "last_commit": "2019-05-25T09:01:13Z",
+                "owner": "robertohuertasm",
+                "repo": "SQLite4Unity3d",
+                "stars": 1409
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
         },
         {
           "children": [
@@ -1256,6 +1410,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "uAdventure",
+              "description": "⭐25 🕒4mo ago- Serious game editor for Unity based on eAdventure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69863403,
+                "language": "C#",
+                "last_commit": "2025-04-23T20:04:30Z",
+                "owner": "e-ucm",
+                "repo": "uAdventure",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EdTech and Game Based Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MyBox",
               "description": "⭐2.1k 🕒2d ago- MyBox is a set of attributes, tools and extensions for Unity .",
               "children": [],
@@ -1281,7 +1457,7 @@
                 "last_commit": "2026-08-12T19:18:21Z",
                 "owner": "arimger",
                 "repo": "Unity-Editor-Toolbox",
-                "stars": 1974
+                "stars": 1973
               }
             },
             {
@@ -1296,7 +1472,7 @@
                 "last_commit": "2026-08-07T08:03:19Z",
                 "owner": "annulusgames",
                 "repo": "Alchemy",
-                "stars": 1319
+                "stars": 1320
               }
             },
             {
@@ -1401,7 +1577,7 @@
                 "last_commit": "2020-05-29T05:14:16Z",
                 "owner": "xeleh",
                 "repo": "enhancer",
-                "stars": 388
+                "stars": 387
               }
             },
             {
@@ -1416,7 +1592,7 @@
                 "last_commit": "2021-01-27T07:32:12Z",
                 "owner": "Unity-Harry",
                 "repo": "Unity-AssetDependencyGraph",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -1603,7 +1779,7 @@
                 "last_commit": "2026-06-18T06:36:17Z",
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3876
+                "stars": 3881
               }
             },
             {
@@ -1723,7 +1899,7 @@
                 "last_commit": "2022-01-30T05:41:31Z",
                 "owner": "Scrawk",
                 "repo": "Ceto",
-                "stars": 1083
+                "stars": 1084
               }
             },
             {
@@ -2157,7 +2333,7 @@
                 "last_commit": "2023-12-30T16:18:56Z",
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7669
+                "stars": 7670
               }
             },
             {
@@ -2284,7 +2460,7 @@
                 "last_commit": "2023-10-31T22:53:07Z",
                 "owner": "Seneral",
                 "repo": "Node_Editor_Framework",
-                "stars": 2020
+                "stars": 2019
               }
             },
             {
@@ -2299,7 +2475,7 @@
                 "last_commit": "2025-01-16T22:16:39Z",
                 "owner": "snozbot",
                 "repo": "fungus",
-                "stars": 1944
+                "stars": 1943
               }
             },
             {
@@ -2759,6 +2935,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Localization-System",
+              "description": "⭐18 🕒1y ago- Localization System for Unity can be used for both RTL and LTR languages (based on CSV file), Images, Audios, LayoutGroups and RectTransforms with detailed Documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300829284,
+                "language": "C#",
+                "last_commit": "2024-04-29T18:21:41Z",
+                "owner": "SMahdiFaghih",
+                "repo": "Localization-System",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "xLua",
               "description": "⭐9.8k 🕒5mo ago- xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, macOS, etc.",
               "children": [],
@@ -2769,7 +2967,7 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10169
+                "stars": 10171
               }
             },
             {
@@ -2784,7 +2982,7 @@
                 "last_commit": "2026-01-05T09:07:22Z",
                 "owner": "leinlin",
                 "repo": "Miku-LuaProfiler",
-                "stars": 2016
+                "stars": 2014
               }
             },
             {
@@ -2841,6 +3039,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MathUtilities",
+              "description": "⭐4.6k 🕒1y ago- A collection of some of the neat math and physics tricks that I've collected over the last few years.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81687646,
+                "language": "C#",
+                "last_commit": "2024-08-24T20:37:32Z",
+                "owner": "zalo",
+                "repo": "MathUtilities",
+                "stars": 4756
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Math"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "UnityMeshSimplifier",
               "description": "⭐1.9k 🕒1y ago- Mesh simplification for Unity.",
               "children": [],
@@ -2851,7 +3071,7 @@
                 "last_commit": "2026-01-07T22:16:05Z",
                 "owner": "Whinarn",
                 "repo": "UnityMeshSimplifier",
-                "stars": 2040
+                "stars": 2042
               }
             },
             {
@@ -2918,7 +3138,7 @@
                 "last_commit": "2026-08-22T15:16:12Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
-                "stars": 1542
+                "stars": 1543
               }
             }
           ],
@@ -2937,10 +3157,10 @@
                 "archived": false,
                 "id": 78869430,
                 "language": "Go",
-                "last_commit": "2026-08-21T16:41:52Z",
+                "last_commit": "2026-08-24T11:19:07Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13199
+                "stars": 13206
               }
             },
             {
@@ -2955,7 +3175,7 @@
                 "last_commit": "2026-08-15T13:56:50Z",
                 "owner": "egametang",
                 "repo": "ET",
-                "stars": 9888
+                "stars": 9889
               }
             },
             {
@@ -2985,7 +3205,7 @@
                 "last_commit": "2026-08-14T06:23:39Z",
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4440
+                "stars": 4441
               }
             },
             {
@@ -3042,7 +3262,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-22T16:42:43Z",
+                "last_commit": "2026-08-24T14:05:21Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2320
@@ -3060,7 +3280,7 @@
                 "last_commit": "2026-08-21T03:42:31Z",
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2026
+                "stars": 2028
               }
             },
             {
@@ -3404,7 +3624,7 @@
                 "last_commit": "2026-08-20T13:25:14Z",
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2656
+                "stars": 2657
               }
             },
             {
@@ -3501,7 +3721,7 @@
                 "last_commit": "2024-04-04T23:31:28Z",
                 "owner": "Syomus",
                 "repo": "ProceduralToolkit",
-                "stars": 2899
+                "stars": 2898
               }
             },
             {
@@ -3662,7 +3882,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:09:03Z",
+                "last_commit": "2026-08-23T18:01:50Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4969
@@ -3960,6 +4180,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SpineTimeline",
+              "description": "⭐85 🕒5y ago- Animate SkeletonAnimation or SkeletonGraphic with Unity's Timeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187542612,
+                "language": "C#",
+                "last_commit": "2026-07-06T06:32:35Z",
+                "owner": "5argon",
+                "repo": "SpineTimeline",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Timeline"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "dotween",
               "description": "⭐2.5k 🕒2mo ago- A Unity C# animation engine. HOTween v2.",
               "children": [],
@@ -3970,7 +4212,7 @@
                 "last_commit": "2026-07-26T08:38:20Z",
                 "owner": "Demigiant",
                 "repo": "dotween",
-                "stars": 2679
+                "stars": 2680
               }
             },
             {
@@ -3985,7 +4227,7 @@
                 "last_commit": "2026-06-30T09:49:06Z",
                 "owner": "annulusgames",
                 "repo": "LitMotion",
-                "stars": 2284
+                "stars": 2285
               }
             },
             {
@@ -4072,6 +4314,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Tork",
+              "description": "⭐437 🕒4y ago- Vehicle system for Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180104909,
+                "language": "C#",
+                "last_commit": "2020-10-01T09:01:59Z",
+                "owner": "adrenak",
+                "repo": "tork",
+                "stars": 447
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vehicle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "UIEffect",
               "description": "⭐6.7k 🕒6d ago- UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!.",
               "children": [],
@@ -4082,7 +4346,7 @@
                 "last_commit": "2026-08-17T08:45:20Z",
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7594
+                "stars": 7595
               }
             },
             {
@@ -4097,7 +4361,7 @@
                 "last_commit": "2026-07-04T06:00:57Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5958
+                "stars": 5961
               }
             },
             {
@@ -4142,7 +4406,7 @@
                 "last_commit": "2026-06-07T20:48:36Z",
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2767
+                "stars": 2768
               }
             },
             {
@@ -4479,7 +4743,7 @@
                 "last_commit": "2024-02-16T10:42:13Z",
                 "owner": "neuecc",
                 "repo": "UniRx",
-                "stars": 7329
+                "stars": 7330
               }
             },
             {
@@ -4494,7 +4758,7 @@
                 "last_commit": "2026-07-08T03:27:13Z",
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5242
+                "stars": 5243
               }
             },
             {
@@ -4509,7 +4773,7 @@
                 "last_commit": "2026-06-29T17:47:03Z",
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5200
+                "stars": 5199
               }
             },
             {
@@ -4659,7 +4923,7 @@
                 "last_commit": "2026-08-04T01:00:52Z",
                 "owner": "ManlyMarco",
                 "repo": "RuntimeUnityEditor",
-                "stars": 1106
+                "stars": 1107
               }
             },
             {
@@ -4674,7 +4938,7 @@
                 "last_commit": "2021-06-02T04:06:36Z",
                 "owner": "akbiggs",
                 "repo": "UnityTimer",
-                "stars": 1091
+                "stars": 1090
               }
             },
             {
@@ -5430,7 +5694,7 @@
                 "last_commit": "2026-07-24T02:46:21Z",
                 "owner": "microsoft",
                 "repo": "MixedRealityToolkit-Unity",
-                "stars": 6077
+                "stars": 6076
               }
             },
             {
@@ -5548,7 +5812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:29:47.090Z",
+    "last_updated": "2026-08-24T14:07:05.404Z",
     "original_repository": "StefanoCecere/awesome-opensource-unity",
     "original_repository_id": 222224026,
     "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
