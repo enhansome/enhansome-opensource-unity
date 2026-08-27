@@ -17,7 +17,7 @@
                 "last_commit": "2023-06-16T14:51:41Z",
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2608
+                "stars": 2609
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-11-11T03:21:34Z",
                 "owner": "HelloFangaming",
                 "repo": "HelloMarioFramework",
-                "stars": 90
+                "stars": 91
               }
             }
           ],
@@ -414,7 +414,7 @@
                 "last_commit": "2026-04-14T08:03:43Z",
                 "owner": "elringus",
                 "repo": "sprite-dicing",
-                "stars": 1514
+                "stars": 1515
               }
             },
             {
@@ -526,7 +526,7 @@
                 "last_commit": "2026-05-08T05:20:44Z",
                 "owner": "DragonBones",
                 "repo": "DragonBonesCSharp",
-                "stars": 578
+                "stars": 579
               }
             }
           ],
@@ -548,7 +548,7 @@
                 "last_commit": "2026-08-25T08:41:37Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19645
+                "stars": 19649
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2023-07-07T07:25:48Z",
                 "owner": "Tencent",
                 "repo": "behaviac",
-                "stars": 3043
+                "stars": 3044
               }
             },
             {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-07-21T09:21:18Z",
                 "owner": "Yuan-ManX",
                 "repo": "ai-game-devtools",
-                "stars": 1316
+                "stars": 1318
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "last_commit": "2026-08-07T08:03:19Z",
                 "owner": "annulusgames",
                 "repo": "Alchemy",
-                "stars": 1322
+                "stars": 1324
               }
             },
             {
@@ -1839,7 +1839,7 @@
                 "last_commit": "2023-08-10T07:30:07Z",
                 "owner": "DavidArayan",
                 "repo": "ezy-slice",
-                "stars": 2265
+                "stars": 2266
               }
             },
             {
@@ -2348,7 +2348,7 @@
                 "last_commit": "2026-08-23T04:08:31Z",
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5423
+                "stars": 5424
               }
             },
             {
@@ -2602,7 +2602,7 @@
                 "last_commit": "2024-03-11T04:54:13Z",
                 "owner": "FarrokhGames",
                 "repo": "Inventory",
-                "stars": 282
+                "stars": 283
               }
             },
             {
@@ -2967,7 +2967,7 @@
                 "last_commit": "2025-11-21T07:14:15Z",
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10175
+                "stars": 10176
               }
             },
             {
@@ -2997,7 +2997,7 @@
                 "last_commit": "2026-08-04T06:45:45Z",
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1614
+                "stars": 1613
               }
             },
             {
@@ -3071,7 +3071,7 @@
                 "last_commit": "2026-01-07T22:16:05Z",
                 "owner": "Whinarn",
                 "repo": "UnityMeshSimplifier",
-                "stars": 2043
+                "stars": 2044
               }
             },
             {
@@ -3135,7 +3135,7 @@
                 "archived": false,
                 "id": 14933768,
                 "language": "C#",
-                "last_commit": "2026-08-26T13:11:48Z",
+                "last_commit": "2026-08-26T23:05:37Z",
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
                 "stars": 1544
@@ -3160,7 +3160,7 @@
                 "last_commit": "2026-08-25T16:12:14Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13218
+                "stars": 13225
               }
             },
             {
@@ -3175,7 +3175,7 @@
                 "last_commit": "2026-08-26T13:25:42Z",
                 "owner": "egametang",
                 "repo": "ET",
-                "stars": 9897
+                "stars": 9898
               }
             },
             {
@@ -3220,7 +3220,7 @@
                 "last_commit": "2026-08-20T14:50:27Z",
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3731
+                "stars": 3733
               }
             },
             {
@@ -3235,7 +3235,7 @@
                 "last_commit": "2026-06-18T11:34:49Z",
                 "owner": "RevenantX",
                 "repo": "LiteNetLib",
-                "stars": 3608
+                "stars": 3610
               }
             },
             {
@@ -3250,7 +3250,7 @@
                 "last_commit": "2026-08-07T05:02:02Z",
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3581
+                "stars": 3584
               }
             },
             {
@@ -3262,7 +3262,7 @@
                 "archived": false,
                 "id": 116385203,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:16:42Z",
+                "last_commit": "2026-08-27T05:08:35Z",
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
                 "stars": 2322
@@ -3624,7 +3624,7 @@
                 "last_commit": "2026-08-20T13:25:14Z",
                 "owner": "gree",
                 "repo": "unity-webview",
-                "stars": 2657
+                "stars": 2658
               }
             },
             {
@@ -3882,7 +3882,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-26T10:31:16Z",
+                "last_commit": "2026-08-26T18:17:24Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4968
@@ -4068,7 +4068,7 @@
                 "archived": false,
                 "id": 15061404,
                 "language": "C#",
-                "last_commit": "2026-07-31T04:57:06Z",
+                "last_commit": "2026-08-27T07:34:30Z",
                 "owner": "playgameservices",
                 "repo": "play-games-plugin-for-unity",
                 "stars": 3658
@@ -4227,7 +4227,7 @@
                 "last_commit": "2026-06-30T09:49:06Z",
                 "owner": "annulusgames",
                 "repo": "LitMotion",
-                "stars": 2287
+                "stars": 2288
               }
             },
             {
@@ -4343,10 +4343,10 @@
                 "archived": false,
                 "id": 83315270,
                 "language": "C#",
-                "last_commit": "2026-08-17T08:45:20Z",
+                "last_commit": "2026-08-27T08:14:38Z",
                 "owner": "mob-sakai",
                 "repo": "UIEffect",
-                "stars": 7606
+                "stars": 7607
               }
             },
             {
@@ -4358,10 +4358,10 @@
                 "archived": false,
                 "id": 138290022,
                 "language": "C#",
-                "last_commit": "2026-07-04T06:00:57Z",
+                "last_commit": "2026-08-27T11:28:20Z",
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5967
+                "stars": 5968
               }
             },
             {
@@ -4773,7 +4773,7 @@
                 "last_commit": "2026-06-29T17:47:03Z",
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5201
+                "stars": 5202
               }
             },
             {
@@ -4788,7 +4788,7 @@
                 "last_commit": "2026-04-19T18:34:16Z",
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4558
+                "stars": 4559
               }
             },
             {
@@ -4833,7 +4833,7 @@
                 "last_commit": "2024-06-04T10:24:05Z",
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2898
+                "stars": 2899
               }
             },
             {
@@ -4848,7 +4848,7 @@
                 "last_commit": "2026-07-21T13:14:53Z",
                 "owner": "TeamSirenix",
                 "repo": "odin-serializer",
-                "stars": 1896
+                "stars": 1897
               }
             },
             {
@@ -4893,7 +4893,7 @@
                 "last_commit": "2020-05-11T14:35:39Z",
                 "owner": "Real-Serious-Games",
                 "repo": "C-Sharp-Promise",
-                "stars": 1241
+                "stars": 1242
               }
             },
             {
@@ -5118,7 +5118,7 @@
                 "last_commit": "2022-07-28T03:45:51Z",
                 "owner": "CiaccoDavide",
                 "repo": "Alchemy-Circles-Generator",
-                "stars": 440
+                "stars": 441
               }
             },
             {
@@ -5812,9 +5812,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:24:15.108Z",
-    "original_repository": "StefanoCecere/awesome-opensource-unity",
-    "original_repository_id": 222224026,
+    "last_updated": "2026-08-27T11:58:56.833Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 222224026,
+      "language": null,
+      "last_commit": "2026-02-18T12:54:30Z",
+      "owner": "StefanoCecere",
+      "repo": "awesome-opensource-unity",
+      "stars": 2022
+    },
     "original_repository_sha": "11ca1263ef9adb76f3f1f8179c2e7343f6ba2e0c",
     "enhanced_repository": "enhansome/enhansome-opensource-unity",
     "enhanced_repository_description": null,
