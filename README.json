@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "in0finite",
                 "repo": "SanAndreasUnity",
-                "stars": 2626,
+                "stars": 2627,
                 "topics": [
                   "game-engine",
                   "gta",
@@ -78,7 +78,7 @@
                 "id": 166197484,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T08:55:40Z",
+                "last_commit": "2026-09-18T14:50:09Z",
                 "open_issues": 126,
                 "owner": "vgwb",
                 "repo": "Antura",
@@ -167,7 +167,7 @@
                 "open_issues": 11,
                 "owner": "PokemonUnity",
                 "repo": "PokemonUnity",
-                "stars": 2027,
+                "stars": 2026,
                 "topics": [
                   "legacy",
                   "pokemon",
@@ -189,11 +189,11 @@
                 "id": 101340763,
                 "language": "C#",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-17T06:02:04Z",
+                "last_commit": "2026-09-18T17:39:17Z",
                 "open_issues": 69,
                 "owner": "finol-digital",
                 "repo": "Card-Game-Simulator",
-                "stars": 437,
+                "stars": 438,
                 "topics": [
                   "card",
                   "card-game",
@@ -525,7 +525,7 @@
                 "open_issues": 18,
                 "owner": "Armour",
                 "repo": "Multiplayer-FPS",
-                "stars": 1250,
+                "stars": 1249,
                 "topics": [
                   "fps",
                   "fps-game",
@@ -592,8 +592,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T16:15:28Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-18T15:44:48Z",
+            "open_issues": 96,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1129,
@@ -841,7 +841,7 @@
                 "open_issues": 81,
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5294,
+                "stars": 5296,
                 "topics": [
                   "2d",
                   "animations",
@@ -899,11 +899,11 @@
                 "id": 102904613,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T15:46:28Z",
+                "last_commit": "2026-09-17T19:34:51Z",
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19687,
+                "stars": 19690,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1154,7 +1154,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -1411,7 +1411,7 @@
                 "open_issues": 13,
                 "owner": "Yuan-ManX",
                 "repo": "ai-game-devtools",
-                "stars": 1342,
+                "stars": 1345,
                 "topics": [
                   "ai-agents",
                   "ai-game-development",
@@ -2130,7 +2130,7 @@
                 "open_issues": 1,
                 "owner": "yika-aixi",
                 "repo": "IcSkillSystem",
-                "stars": 258,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -2429,7 +2429,7 @@
                 "open_issues": 23,
                 "owner": "kimsama",
                 "repo": "Unity-QuickSheet",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "excel",
                   "spreadsheet",
@@ -2876,7 +2876,7 @@
                 "open_issues": 83,
                 "owner": "wave-harmonic",
                 "repo": "crest",
-                "stars": 3899,
+                "stars": 3901,
                 "topics": [
                   "displacement-texture",
                   "ocean",
@@ -2946,7 +2946,7 @@
                 "open_issues": 0,
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2414,
+                "stars": 2415,
                 "topics": [
                   "plugin",
                   "shader",
@@ -3117,7 +3117,7 @@
                 "open_issues": 5,
                 "owner": "AdultLink",
                 "repo": "RadialProgressBar",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "game-dev",
                   "game-development",
@@ -3309,7 +3309,7 @@
                 "open_issues": 4,
                 "owner": "OCASM",
                 "repo": "SSMS",
-                "stars": 749,
+                "stars": 748,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -3363,7 +3363,7 @@
                 "open_issues": 4,
                 "owner": "SlightlyMad",
                 "repo": "AtmosphericScattering",
-                "stars": 685,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -3818,7 +3818,7 @@
                 "open_issues": 97,
                 "owner": "sschmid",
                 "repo": "Entitas",
-                "stars": 7674,
+                "stars": 7675,
                 "topics": [
                   "c-sharp",
                   "code-generation",
@@ -3856,7 +3856,7 @@
                 "open_issues": 8,
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5451,
+                "stars": 5454,
                 "topics": [
                   "frameworks",
                   "game-dev",
@@ -4440,7 +4440,7 @@
                 "open_issues": 69,
                 "owner": "LogicalError",
                 "repo": "realtime-CSG-for-unity",
-                "stars": 1010,
+                "stars": 1011,
                 "topics": [
                   "bsp",
                   "constructive-solid-geometries",
@@ -4819,7 +4819,7 @@
                 "open_issues": 288,
                 "owner": "Tencent",
                 "repo": "xLua",
-                "stars": 10191,
+                "stars": 10193,
                 "topics": [
                   "csharp",
                   "lua",
@@ -5089,7 +5089,7 @@
                 "id": 14933768,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T23:51:45Z",
+                "last_commit": "2026-09-18T17:53:57Z",
                 "open_issues": 154,
                 "owner": "googleads",
                 "repo": "googleads-mobile-unity",
@@ -5122,11 +5122,11 @@
                 "id": 78869430,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T17:59:19Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-18T15:42:03Z",
+                "open_issues": 119,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13349,
+                "stars": 13354,
                 "topics": [
                   "backend",
                   "cpp",
@@ -5168,7 +5168,7 @@
                 "open_issues": 87,
                 "owner": "egametang",
                 "repo": "ET",
-                "stars": 9910,
+                "stars": 9911,
                 "topics": [
                   "actor",
                   "c-sharp",
@@ -5224,7 +5224,7 @@
                 "open_issues": 7,
                 "owner": "Cysharp",
                 "repo": "MagicOnion",
-                "stars": 4450,
+                "stars": 4451,
                 "topics": [
                   "c-sharp",
                   "grpc",
@@ -5252,7 +5252,7 @@
                 "open_issues": 212,
                 "owner": "Facepunch",
                 "repo": "Facepunch.Steamworks",
-                "stars": 3760,
+                "stars": 3761,
                 "topics": [
                   "cloud",
                   "dll",
@@ -5311,7 +5311,7 @@
                 "open_issues": 173,
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3611,
+                "stars": 3613,
                 "topics": [
                   "c-sharp",
                   "steamworks",
@@ -5332,11 +5332,11 @@
                 "id": 116385203,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T15:32:43Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-18T11:52:41Z",
+                "open_issues": 61,
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
-                "stars": 2324,
+                "stars": 2325,
                 "topics": [
                   "csharp",
                   "hlapi",
@@ -5369,7 +5369,7 @@
                 "open_issues": 14,
                 "owner": "FirstGearGames",
                 "repo": "FishNet",
-                "stars": 2049,
+                "stars": 2051,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -5902,7 +5902,7 @@
                 "open_issues": 0,
                 "owner": "staggartcreations",
                 "repo": "Graphics-Raycast",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -6069,7 +6069,7 @@
                 "open_issues": 9,
                 "owner": "marian42",
                 "repo": "wavefunctioncollapse",
-                "stars": 4859,
+                "stars": 4860,
                 "topics": [
                   "procjam",
                   "unity",
@@ -6174,7 +6174,7 @@
                 "open_issues": 1,
                 "owner": "mattatz",
                 "repo": "unity-procedural-tree",
-                "stars": 426,
+                "stars": 427,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -6331,11 +6331,11 @@
                 "id": 20878802,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T13:03:47Z",
-                "open_issues": 532,
+                "last_commit": "2026-09-18T15:02:01Z",
+                "open_issues": 536,
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
-                "stars": 4975,
+                "stars": 4974,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -6498,7 +6498,7 @@
                 "open_issues": 3,
                 "owner": "YarnSpinnerTool",
                 "repo": "YarnSpinner",
-                "stars": 2839,
+                "stars": 2840,
                 "topics": [
                   "dialogue",
                   "dialogue-manager",
@@ -6643,7 +6643,7 @@
                 "open_issues": 182,
                 "owner": "playgameservices",
                 "repo": "play-games-plugin-for-unity",
-                "stars": 3654,
+                "stars": 3655,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -6853,11 +6853,11 @@
                 "id": 735483509,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-06-30T09:49:06Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-18T12:40:55Z",
+                "open_issues": 47,
                 "owner": "annulusgames",
                 "repo": "LitMotion",
-                "stars": 2314,
+                "stars": 2315,
                 "topics": [
                   "animation",
                   "dots",
@@ -6912,7 +6912,7 @@
                 "open_issues": 67,
                 "owner": "dentedpixel",
                 "repo": "LeanTween",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -7085,7 +7085,7 @@
                 "open_issues": 43,
                 "owner": "mob-sakai",
                 "repo": "ParticleEffectForUGUI",
-                "stars": 5997,
+                "stars": 5998,
                 "topics": [
                   "component",
                   "effects",
@@ -7115,7 +7115,7 @@
                 "open_issues": 11,
                 "owner": "setchi",
                 "repo": "FancyScrollView",
-                "stars": 3524,
+                "stars": 3526,
                 "topics": [
                   "csharp",
                   "infinite-scroll",
@@ -7181,7 +7181,7 @@
                 "open_issues": 1,
                 "owner": "qiankanglai",
                 "repo": "LoopScrollRect",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": [
                   "ugui",
                   "unity3d"
@@ -7779,7 +7779,7 @@
                 "open_issues": 6,
                 "owner": "Cysharp",
                 "repo": "ZLinq",
-                "stars": 5268,
+                "stars": 5269,
                 "topics": [
                   "c-sharp",
                   "linq",
@@ -7804,7 +7804,7 @@
                 "open_issues": 127,
                 "owner": "dbrizov",
                 "repo": "NaughtyAttributes",
-                "stars": 5211,
+                "stars": 5212,
                 "topics": [
                   "attributes",
                   "extension",
@@ -7903,7 +7903,7 @@
                 "open_issues": 12,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -7930,7 +7930,7 @@
                 "open_issues": 27,
                 "owner": "TeamSirenix",
                 "repo": "odin-serializer",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -8050,7 +8050,7 @@
                 "open_issues": 9,
                 "owner": "ManlyMarco",
                 "repo": "RuntimeUnityEditor",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": [
                   "bepinex",
                   "debugging-tool",
@@ -8077,7 +8077,7 @@
                 "open_issues": 10,
                 "owner": "akbiggs",
                 "repo": "UnityTimer",
-                "stars": 1092,
+                "stars": 1093,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -9379,7 +9379,7 @@
                 "id": 471421425,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T13:27:11Z",
+                "last_commit": "2026-09-18T11:48:06Z",
                 "open_issues": 12,
                 "owner": "MindPort-GmbH",
                 "repo": "VR-Builder",
@@ -9483,7 +9483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:55:48.664Z",
+    "last_updated": "2026-09-18T18:17:04.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of curated opensource Unity packages for future proof Game Developers",
@@ -9495,7 +9495,7 @@
       "open_issues": 9,
       "owner": "StefanoCecere",
       "repo": "awesome-opensource-unity",
-      "stars": 2233,
+      "stars": 2235,
       "topics": [
         "assets",
         "awesome",
