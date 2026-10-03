@@ -189,7 +189,7 @@
                 "id": 101340763,
                 "language": "C#",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-02T13:18:29Z",
+                "last_commit": "2026-10-03T04:54:02Z",
                 "open_issues": 67,
                 "owner": "finol-digital",
                 "repo": "Card-Game-Simulator",
@@ -592,8 +592,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:54:32Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-03T01:13:22Z",
+            "open_issues": 98,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1134,
@@ -841,7 +841,7 @@
                 "open_issues": 82,
                 "owner": "EsotericSoftware",
                 "repo": "spine-runtimes",
-                "stars": 5308,
+                "stars": 5309,
                 "topics": [
                   "2d",
                   "animations",
@@ -903,7 +903,7 @@
                 "open_issues": 20,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19715,
+                "stars": 19717,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -1150,11 +1150,11 @@
                 "id": 613697580,
                 "language": "C#",
                 "license": "Zlib",
-                "last_commit": "2026-09-30T17:34:34Z",
+                "last_commit": "2026-10-03T04:49:02Z",
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 947,
+                "stars": 946,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -1411,7 +1411,7 @@
                 "open_issues": 14,
                 "owner": "Yuan-ManX",
                 "repo": "ai-game-devtools",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": [
                   "ai-agents",
                   "ai-game-development",
@@ -2396,11 +2396,11 @@
                 "id": 726303852,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:21:18Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-02T23:46:10Z",
+                "open_issues": 57,
                 "owner": "annulusgames",
                 "repo": "Alchemy",
-                "stars": 1376,
+                "stars": 1377,
                 "topics": [
                   "editor-extension",
                   "hierarchy",
@@ -2613,7 +2613,7 @@
             {
               "node_type": "item",
               "title": "property-drawer-collection",
-              "description": null,
+              "description": "anchan828/property-drawer-collection",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3856,7 +3856,7 @@
                 "open_issues": 8,
                 "owner": "liangxiegame",
                 "repo": "QFramework",
-                "stars": 5468,
+                "stars": 5469,
                 "topics": [
                   "frameworks",
                   "game-dev",
@@ -4022,7 +4022,7 @@
                 "open_issues": 89,
                 "owner": "Siccity",
                 "repo": "xNode",
-                "stars": 3742,
+                "stars": 3743,
                 "topics": [
                   "editor",
                   "framework",
@@ -5311,7 +5311,7 @@
                 "open_issues": 173,
                 "owner": "rlabrecque",
                 "repo": "Steamworks.NET",
-                "stars": 3627,
+                "stars": 3625,
                 "topics": [
                   "c-sharp",
                   "steamworks",
@@ -5332,7 +5332,7 @@
                 "id": 116385203,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:25:09Z",
+                "last_commit": "2026-10-02T22:41:51Z",
                 "open_issues": 69,
                 "owner": "Unity-Technologies",
                 "repo": "com.unity.netcode.gameobjects",
@@ -7662,7 +7662,7 @@
             {
               "node_type": "item",
               "title": "UGUIExtend",
-              "description": null,
+              "description": "L-Lawliet/UGUIExtend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7832,7 +7832,7 @@
                 "open_issues": 90,
                 "owner": "GlitchEnzo",
                 "repo": "NuGetForUnity",
-                "stars": 4574,
+                "stars": 4575,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:41.765Z"
@@ -7903,7 +7903,7 @@
                 "open_issues": 13,
                 "owner": "Tayx94",
                 "repo": "graphy",
-                "stars": 2908,
+                "stars": 2909,
                 "topics": [
                   "fps-counter",
                   "stats-for-nerds",
@@ -9483,7 +9483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:51:37.494Z",
+    "last_updated": "2026-10-03T05:03:07.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of curated opensource Unity packages for future proof Game Developers",
